@@ -1,0 +1,48 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About</title>
+  <style>
+    body { font-size: 22px; margin: 2em; font-family: system-ui; }
+    input { font-size: 22px; padding: 6px; }
+    .username { color: darkgreen; }
+  </style>
+</head>
+<body>
+
+  <h1>About</h1>
+  <p>This service provides key-value storage for the Movies application.</p>
+  <p>
+    Go back to the <a href="/">home</a> page.
+  </p>
+
+  {% if username is not none %}
+    <p class="username">
+      Welcome, {{ username }}.
+    </p>
+  {% endif %}
+
+  <hr>
+  <h4>1. Get the count of favorites for a given movie:</h4>
+  <p>
+    <pre>
+      <code>
+    GET /likes/{movie-id}
+      </code>
+    </pre>
+    The response body will contain the current number of likes for the given movie.
+  </p>
+  <hr>
+  <h4>2. Increase or decrease the count of favorites for a given movie:</h4>
+  <p>
+    <pre>
+      <code>
+    POST /likes/{movie-id}?change=+1
+    POST /likes/{movie-id}?change=-1
+      </code>
+    </pre>
+    The response body will contain the updated number of likes for the given movie.
+  </p>
+</body>
+</html>

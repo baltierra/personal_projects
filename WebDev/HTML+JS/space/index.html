@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <link rel="stylesheet" href="./src/style.css">
+    <link rel="stylesheet" href="./src/trivia.css">
+    <title>Lost in Space</title>
+</head>
+<body>
+    <!-- RESPONSIVE MENU -->
+    <nav>
+        <!-- Menu for mobile version -->
+        <div class="mobile">
+            <div class="header">
+                <div class="logo"><a href="index.html" title="Home Page"><img src="./src/logo.png" alt="Lost in Space" height="50" width="auto"></a></div>
+                <div class="more">
+                    <button id="mobile_menu_button">
+                        <span class="material-symbols-outlined">menu</span>
+                    </button>
+                </div>
+            </div>
+            <div id="links" class="sections collapsed">
+              <a href="#" onclick='loadHTML("template","spacephoto.html")'>Look Around</a>
+              <a href="#" onclick='loadHTML("template","trivia.html")'>Shine at Trivia</a>
+              <a href="#" onclick='loadHTML("template","iss.html")'>Follow the ISS</a>
+              <a href="#" onclick='loadHTML("template","landing.html")'>Land on Earth?</a>
+            </div>
+        </div>
+        <!-- Menu for desktop version -->
+        <div class="desktop">
+          <div class="logo"><a href="index.html" title="Home Page"><img src="./src/logo.png" alt="Lost in Space" height="50" width="auto"></a></div>
+            <div class="main_extended">
+              <a href="#" onclick='loadHTML("template","spacephoto.html")'>Look Around</a>
+              <a href="#" onclick='loadHTML("template","trivia.html")'>Shine at Trivia</a>
+              <a href="#" onclick='loadHTML("template","iss.html")'>Follow the ISS</a>
+              <a href="#" onclick='loadHTML("template","landing.html")'>Land on Earth?</a>
+            </div>
+            <!-- Desktop menu can display a contracted view depending on screen size-->
+            <div class="main_contracted">
+                <a href="#">More</a>
+                <div class="submenu">
+                    <a href="#" onclick='loadHTML("template","spacephoto.html")'>Look Around</a>
+                    <a href="#" onclick='loadHTML("template","trivia.html")'>Shine at Trivia</a>
+                    <a href="#" onclick='loadHTML("template","iss.html")'>Follow the ISS</a>
+                    <a href="#" onclick='loadHTML("template","landing.html")'>Land on Earth?</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- ANIMATED STARS BACKGROUND -->
+    <div class="main"></div>
+
+    <div id="template" class="template">
+      <div class="title">
+        <h1 class="gradient-text">WHAT TO DO IF YOU GET LOST IN SPACE?<br>
+          (ideas on the menu)
+        </h1>
+      </div>
+    </div>
+
+    <script>
+        const mobile_menu_button = document.querySelector('#mobile_menu_button');
+        const links = document.querySelector('#links');
+        mobile_menu_button.addEventListener('click', e => {
+            links.classList.toggle('collapsed');
+        });
+
+        function loadHTML(id, filename) {
+          let xhttp;
+          let element = document.getElementById(id);
+          let file = filename;
+
+          if ( file ) {
+            xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function () {
+              if (this.readyState == 4) {
+                if (this.status == 200) {element.innerHTML = this.responseText;}
+                if (this.status == 404) {element.innerHTML = "<h1>Oops! There is no page, a black hole took it away.</h1>";}
+              }
+            }
+            xhttp.open("GET", `src/${file}`, true);
+            xhttp.send();
+            return;
+          }
+        }
+
+        function getDate() {
+            return document.getElementById('dateSearch').value;
+        }
+
+        async function call() {
+            let request = '';
+            request = 'https://api.nasa.gov/planetary/apod?date=' + getDate() + '&api_key=GXacxntSzk6wpkUmDVw4L1Gfgt4kF6PzZrmSNWBb';
+            let response = await fetch(request);
+            let data = await response.json();
+            p = document.getElementById("description");
+            p.innerHTML = data.explanation;
+
+            img = document.getElementById("spacePic");
+            img.src = data.url;
+        }
+    </script>
+</body>
+</html>

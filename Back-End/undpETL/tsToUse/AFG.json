@@ -1,0 +1,4233 @@
+[
+  {
+    "goal": "1",
+    "target": "1.1",
+    "indicator": "1.1.1",
+    "series": "SI_POV_DAY1",
+    "seriesDescription": "Proportion of population below international poverty line (%)",
+    "Reporting Type": "G",
+    "Age": "ALLAGE",
+    "Location": "ALLAREA",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "1",
+    "target": "1.1",
+    "indicator": "1.1.1",
+    "series": "SI_POV_DAY1",
+    "seriesDescription": "Proportion of population below international poverty line (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "1",
+    "target": "1.2",
+    "indicator": "1.2.1",
+    "series": "SI_POV_NAHC",
+    "seriesDescription": "Proportion of population living below the national poverty line (%)",
+    "Reporting Type": "G",
+    "Location": "ALLAREA"
+  },
+  {
+    "goal": "1",
+    "target": "1.2",
+    "indicator": "1.2.2",
+    "series": "SD_MDP_MUHC",
+    "seriesDescription": "Proportion of population living in multidimensional poverty (%)",
+    "Reporting Type": "G",
+    "Age": "ALLAGE",
+    "Sex": "BOTHSEX",
+    "Location": "ALLAREA"
+  },
+  {
+    "goal": "1",
+    "target": "1.3",
+    "indicator": "1.3.1",
+    "series": "SI_COV_SOCAST",
+    "seriesDescription": "[World Bank] Proportion of population covered by social assistance programs (%)",
+    "Reporting Type": "G",
+    "Quantile": "_T"
+  },
+  {
+    "goal": "1",
+    "target": "1.3",
+    "indicator": "1.3.1",
+    "series": "SI_COV_SOCINS",
+    "seriesDescription": "[World Bank] Proportion of population covered by social insurance programs (%)",
+    "Reporting Type": "G",
+    "Quantile": "_T"
+  },
+  {
+    "goal": "1",
+    "target": "1.3",
+    "indicator": "1.3.1",
+    "series": "SI_COV_CHLD",
+    "seriesDescription": "[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "1",
+    "target": "1.3",
+    "indicator": "1.3.1",
+    "series": "SI_COV_UEMP",
+    "seriesDescription": "[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "1",
+    "target": "1.3",
+    "indicator": "1.3.1",
+    "series": "SI_COV_VULN",
+    "seriesDescription": "[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "1",
+    "target": "1.3",
+    "indicator": "1.3.1",
+    "series": "SI_COV_WKINJRY",
+    "seriesDescription": "[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "1",
+    "target": "1.3",
+    "indicator": "1.3.1",
+    "series": "SI_COV_BENFTS",
+    "seriesDescription": "[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "1",
+    "target": "1.3",
+    "indicator": "1.3.1",
+    "series": "SI_COV_DISAB",
+    "seriesDescription": "[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "1",
+    "target": "1.3",
+    "indicator": "1.3.1",
+    "series": "SI_COV_PENSN",
+    "seriesDescription": "[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "1",
+    "target": "1.4",
+    "indicator": "1.4.1",
+    "series": "SP_ACS_BSRVH2O",
+    "seriesDescription": "Proportion of population using basic drinking water services, by location (%)",
+    "Reporting Type": "G",
+    "Location": "ALLAREA"
+  },
+  {
+    "goal": "1",
+    "target": "1.4",
+    "indicator": "1.4.1",
+    "series": "SP_ACS_BSRVSAN",
+    "seriesDescription": "Proportion of population using basic sanitation services, by location (%)",
+    "Reporting Type": "G",
+    "Location": "ALLAREA"
+  },
+  {
+    "goal": "1",
+    "target": "1.4",
+    "indicator": "1.4.2",
+    "series": "SP_LGL_LNDDOC",
+    "seriesDescription": "Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "1",
+    "target": "1.4",
+    "indicator": "1.4.2",
+    "series": "SP_LGL_LNDSTR",
+    "seriesDescription": "Proportion of people with secure tenure rights to land out of total adult population, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "1",
+    "target": "1.4",
+    "indicator": "1.4.2",
+    "series": "SP_LGL_LNDSTR",
+    "seriesDescription": "Proportion of adult population who have land rights based on legal documents and who have land rights based on gender and type of ownership: (2) Proportion of households with rental/contracted houses (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "1",
+    "target": "1.5",
+    "indicator": "1.5.1",
+    "series": "VC_DSR_AFFCT",
+    "seriesDescription": "Number of people affected by disaster (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "1",
+    "target": "1.5",
+    "indicator": "1.5.1",
+    "series": "VC_DSR_PDLN",
+    "seriesDescription": "Number of people whose livelihoods were disrupted or destroyed, attributed to disasters per 100,000 people: (3) displaced victims (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "1",
+    "target": "1.5",
+    "indicator": "1.5.1",
+    "series": "VC_DSR_MORT",
+    "seriesDescription": "Number of deaths due to disaster (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "1",
+    "target": "1.5",
+    "indicator": "1.5.3",
+    "series": "SG_DSR_LGRGSR",
+    "seriesDescription": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "1",
+    "target": "1.5",
+    "indicator": "1.5.4",
+    "series": "SG_DSR_SILS",
+    "seriesDescription": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "1",
+    "target": "1.5",
+    "indicator": "1.5.4",
+    "series": "SG_DSR_SILN",
+    "seriesDescription": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "1",
+    "target": "1.5",
+    "indicator": "1.5.4",
+    "series": "SG_DSR_SILS",
+    "seriesDescription": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "1",
+    "target": "1.a",
+    "indicator": "1.a.1",
+    "series": "DC_ODA_POVLG",
+    "seriesDescription": "Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "1",
+    "target": "1.a",
+    "indicator": "1.a.2",
+    "series": "SD_XPD_ESED",
+    "seriesDescription": "Proportion of total government spending on essential services, education (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "2",
+    "target": "2.1",
+    "indicator": "2.1.1",
+    "series": "SN_ITK_DEFC",
+    "seriesDescription": "Prevalence of undernourishment (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "2",
+    "target": "2.1",
+    "indicator": "2.1.2",
+    "series": "AG_PRD_FIESMS",
+    "seriesDescription": "Prevalence of moderate or severe food insecurity in the adult population (%)",
+    "Reporting Type": "G",
+    "Age": "ALLAGE",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "2",
+    "target": "2.2",
+    "indicator": "2.2.1",
+    "series": "SH_STA_STNT",
+    "seriesDescription": "Proportion of children moderately or severely stunted (%)",
+    "Reporting Type": "G",
+    "Age": "<5Y"
+  },
+  {
+    "goal": "2",
+    "target": "2.2",
+    "indicator": "2.2.2",
+    "series": "SH_STA_WAST",
+    "seriesDescription": "Proportion of children moderately or severely wasted (%)",
+    "Reporting Type": "G",
+    "Age": "<5Y"
+  },
+  {
+    "goal": "2",
+    "target": "2.2",
+    "indicator": "2.2.2",
+    "series": "SN_STA_OVWGT",
+    "seriesDescription": "Proportion of children moderately or severely overweight (%)",
+    "Reporting Type": "G",
+    "Age": "<5Y"
+  },
+  {
+    "goal": "2",
+    "target": "2.2",
+    "indicator": "2.2.3",
+    "series": "SH_STA_ANEM",
+    "seriesDescription": "Proportion of women aged 15-49 years with anaemia (%)",
+    "Reporting Type": "G",
+    "Age": "15-49",
+    "Sex": "FEMALE"
+  },
+  {
+    "goal": "2",
+    "target": "2.3",
+    "indicator": "2.3.1",
+    "series": "PD_AGR_SSFP",
+    "seriesDescription": "Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "2",
+    "target": "2.3",
+    "indicator": "2.3.1",
+    "series": "PD_AGR_LSFP",
+    "seriesDescription": "Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "2",
+    "target": "2.3",
+    "indicator": "2.3.2",
+    "series": "SI_AGR_SSFP",
+    "seriesDescription": "Average income of small-scale food producers, PPP (constant 2011 international $)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "2",
+    "target": "2.3",
+    "indicator": "2.3.2",
+    "series": "SI_AGR_LSFP",
+    "seriesDescription": "Average income of large-scale food producers, PPP (constant 2011 international $)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "2",
+    "target": "2.5",
+    "indicator": "2.5.1",
+    "series": "ER_GRF_ANIMRCNTN",
+    "seriesDescription": "Number of local breeds for which sufficient genetic resources are stored for reconstitution",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "2",
+    "target": "2.5",
+    "indicator": "2.5.1",
+    "series": "ER_GRF_PLNTSTOR",
+    "seriesDescription": "Plant genetic resources accessions stored ex situ (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "2",
+    "target": "2.5",
+    "indicator": "2.5.2",
+    "series": "ER_RSK_LBREDS",
+    "seriesDescription": "Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "2",
+    "target": "2.a",
+    "indicator": "2.a.1",
+    "series": "AG_PRD_ORTIND",
+    "seriesDescription": "Agriculture orientation index for government expenditures",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "2",
+    "target": "2.a",
+    "indicator": "2.a.1",
+    "series": "AG_PRD_AGVAS",
+    "seriesDescription": "Agriculture value added share of GDP (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "2",
+    "target": "2.a",
+    "indicator": "2.a.1",
+    "series": "AG_XPD_AGSGB",
+    "seriesDescription": "Agriculture share of Government Expenditure (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "2",
+    "target": "2.b",
+    "indicator": "2.b.1",
+    "series": "AG_PRD_XSUBDY",
+    "seriesDescription": "Agricultural export subsidies (millions of current United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "2",
+    "target": "2.c",
+    "indicator": "2.c.1",
+    "series": "AG_FPA_CFPI",
+    "seriesDescription": "Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.1",
+    "indicator": "3.1.1",
+    "series": "SH_STA_MORT",
+    "seriesDescription": "Maternal mortality ratio",
+    "Reporting Type": "G",
+    "Sex": "FEMALE"
+  },
+  {
+    "goal": "3",
+    "target": "3.1",
+    "indicator": "3.1.2",
+    "series": "SH_STA_BRTC",
+    "seriesDescription": "Proportion of births attended by skilled health personnel (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.2",
+    "indicator": "3.2.1",
+    "series": "SH_DYN_IMRTN",
+    "seriesDescription": "Infant deaths (number)",
+    "Reporting Type": "G",
+    "Age": "<1Y",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "3",
+    "target": "3.2",
+    "indicator": "3.2.1",
+    "series": "SH_DYN_MORT",
+    "seriesDescription": "Under-five mortality rate, by sex (deaths per 1,000 live births)",
+    "Reporting Type": "G",
+    "Age": "<5Y",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "3",
+    "target": "3.2",
+    "indicator": "3.2.1",
+    "series": "SH_DYN_IMRT",
+    "seriesDescription": "Infant mortality rate (deaths per 1,000 live births)",
+    "Reporting Type": "G",
+    "Age": "<1Y",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "3",
+    "target": "3.2",
+    "indicator": "3.2.2",
+    "series": "SH_DYN_NMRT",
+    "seriesDescription": "Neonatal mortality rate (deaths per 1,000 live births)",
+    "Reporting Type": "G",
+    "Age": "<1M",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "3",
+    "target": "3.3",
+    "indicator": "3.3.1",
+    "series": "SH_HIV_INCD",
+    "seriesDescription": "Number of new HIV infections per 1,000 uninfected population, by sex and age (per 1,000 uninfected population)",
+    "Reporting Type": "G",
+    "Age": "ALLAGE",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "3",
+    "target": "3.3",
+    "indicator": "3.3.2",
+    "series": "SH_TBS_INCD",
+    "seriesDescription": "Tuberculosis incidence (per 100,000 population)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.3",
+    "indicator": "3.3.3",
+    "series": "SH_STA_MALR",
+    "seriesDescription": "Malaria incidence per 1,000 population at risk (per 1,000 population)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.3",
+    "indicator": "3.3.4",
+    "series": "SH_HAP_HBSAG",
+    "seriesDescription": "Prevalence of hepatitis B surface antigen (HBsAg) (%)",
+    "Reporting Type": "G",
+    "Age": "<5Y"
+  },
+  {
+    "goal": "3",
+    "target": "3.3",
+    "indicator": "3.3.5",
+    "series": "SH_TRP_INTVN",
+    "seriesDescription": "Number of people requiring interventions against neglected tropical diseases (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.4",
+    "indicator": "3.4.1",
+    "series": "SH_DTH_NCOM",
+    "seriesDescription": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)",
+    "Reporting Type": "G",
+    "Age": "30-70",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "3",
+    "target": "3.4",
+    "indicator": "3.4.1",
+    "series": "SH_DTH_NCD",
+    "seriesDescription": "Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Name of non-communicable disease": "CAR"
+  },
+  {
+    "goal": "3",
+    "target": "3.4",
+    "indicator": "3.4.2",
+    "series": "SH_STA_SCIDE",
+    "seriesDescription": "Suicide mortality rate, by sex (deaths per 100,000 population)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "3",
+    "target": "3.5",
+    "indicator": "3.5.1",
+    "series": "SH_SUD_ALCOL",
+    "seriesDescription": "Alcohol use disorders, 12-month prevalence (%)",
+    "Reporting Type": "G",
+    "Age": "15+",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "3",
+    "target": "3.5",
+    "indicator": "3.5.2",
+    "series": "SH_ALC_CONSPT",
+    "seriesDescription": "Alcohol consumption per capita (aged 15 years and older) within a calendar year (litres of pure alcohol)",
+    "Reporting Type": "G",
+    "Age": "15+",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "3",
+    "target": "3.6",
+    "indicator": "3.6.1",
+    "series": "SH_STA_TRAF",
+    "seriesDescription": "Death rate due to road traffic injuries, by sex (per 100,000 population)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "3",
+    "target": "3.7",
+    "indicator": "3.7.1",
+    "series": "SH_FPL_MTMM",
+    "seriesDescription": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (% of women aged 15-49 years)",
+    "Reporting Type": "G",
+    "Age": "15-49",
+    "Sex": "FEMALE"
+  },
+  {
+    "goal": "3",
+    "target": "3.7",
+    "indicator": "3.7.2",
+    "series": "SP_DYN_ADKL",
+    "seriesDescription": "Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)",
+    "Reporting Type": "G",
+    "Age": "10-14",
+    "Sex": "FEMALE"
+  },
+  {
+    "goal": "3",
+    "target": "3.7",
+    "indicator": "3.7.2",
+    "series": "SP_DYN_ADKL",
+    "seriesDescription": "Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years)",
+    "Reporting Type": "G",
+    "Age": "15-19",
+    "Sex": "FEMALE"
+  },
+  {
+    "goal": "3",
+    "target": "3.8",
+    "indicator": "3.8.1",
+    "series": "SH_ACS_UNHC",
+    "seriesDescription": "Universal health coverage (UHC) service coverage index",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.8",
+    "indicator": "3.8.2",
+    "series": "SH_XPD_EARN25",
+    "seriesDescription": "Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.9",
+    "indicator": "3.9.1",
+    "series": "SH_STA_ASAIRP",
+    "seriesDescription": "Age-standardized mortality rate attributed to household and ambient air pollution (deaths per 100,000 population)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.9",
+    "indicator": "3.9.2",
+    "series": "SH_STA_WASH",
+    "seriesDescription": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (deaths per 100,000 population)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.9",
+    "indicator": "3.9.3",
+    "series": "SH_STA_POISN",
+    "seriesDescription": "Mortality rate attributed to unintentional poisonings, by sex (deaths per 100,000 population)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "3",
+    "target": "3.a",
+    "indicator": "3.a.1",
+    "series": "SH_PRV_SMOK",
+    "seriesDescription": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%)",
+    "Reporting Type": "G",
+    "Age": "15+",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "3",
+    "target": "3.b",
+    "indicator": "3.b.1",
+    "series": "SH_ACS_DTP3",
+    "seriesDescription": "Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.b",
+    "indicator": "3.b.1",
+    "series": "SH_ACS_MCV2",
+    "seriesDescription": "Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.b",
+    "indicator": "3.b.1",
+    "series": "SH_ACS_PCV3",
+    "seriesDescription": "Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.b",
+    "indicator": "3.b.1",
+    "series": "SH_ACS_HPV",
+    "seriesDescription": "Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.b",
+    "indicator": "3.b.2",
+    "series": "DC_TOF_HLTHNT",
+    "seriesDescription": "Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2019 United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.c",
+    "indicator": "3.c.1",
+    "series": "SH_MED_DEN",
+    "seriesDescription": "Health worker density, by type of occupation (per 10,000 population)",
+    "Reporting Type": "G",
+    "Type of occupation": "DENT"
+  },
+  {
+    "goal": "3",
+    "target": "3.d",
+    "indicator": "3.d.1",
+    "series": "SH_IHR_CAPS",
+    "seriesDescription": "International Health Regulations (IHR) capacity, by type of IHR capacity (%)",
+    "Reporting Type": "G",
+    "IHR Capacity": "IHR09"
+  },
+  {
+    "goal": "3",
+    "target": "3.d",
+    "indicator": "3.d.2",
+    "series": "SH_BLD_MRSA",
+    "seriesDescription": "Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "3",
+    "target": "3.d",
+    "indicator": "3.d.2",
+    "series": "SH_BLD_ECOLI",
+    "seriesDescription": "Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "4",
+    "target": "4.7",
+    "indicator": "4.7.1",
+    "series": "SE_GCEDESD_NEP",
+    "seriesDescription": "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "4",
+    "target": "4.1",
+    "indicator": "4.1.1",
+    "series": "SE_TOT_PRFL",
+    "seriesDescription": "Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Education level": "GRAD23",
+    "Type of skill": "SKILL_READ"
+  },
+  {
+    "goal": "4",
+    "target": "4.1",
+    "indicator": "4.1.2",
+    "series": "SE_TOT_CPLR",
+    "seriesDescription": "Completion rate, by sex, location, wealth quintile and education level (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Location": "ALLAREA",
+    "Quantile": "_T",
+    "Education level": "LOWSEC"
+  },
+  {
+    "goal": "4",
+    "target": "4.1",
+    "indicator": "4.1.2",
+    "series": "SE_TOT_CPLR",
+    "seriesDescription": "Completion rate, by sex, location, wealth quintile and education level (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Location": "ALLAREA",
+    "Quantile": "_T",
+    "Education level": "LOWSEC"
+  },
+  {
+    "goal": "4",
+    "target": "4.1",
+    "indicator": "4.1.2",
+    "series": "SE_TOT_CPLR",
+    "seriesDescription": "Completion rate, by sex, location, wealth quintile and education level (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Location": "ALLAREA",
+    "Quantile": "_T",
+    "Education level": "LOWSEC"
+  },
+  {
+    "goal": "4",
+    "target": "4.1",
+    "indicator": "4.1.2",
+    "series": "SE_TOT_CPLR",
+    "seriesDescription": "Completion rate, by sex, location, wealth quintile and education level (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Location": "ALLAREA",
+    "Quantile": "_T",
+    "Education level": "UPPSEC"
+  },
+  {
+    "goal": "4",
+    "target": "4.1",
+    "indicator": "4.1.2",
+    "series": "SE_TOT_CPLR",
+    "seriesDescription": "Completion rate, by sex, location, wealth quintile and education level (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Location": "ALLAREA",
+    "Quantile": "_T",
+    "Education level": "UPPSEC"
+  },
+  {
+    "goal": "4",
+    "target": "4.1",
+    "indicator": "4.1.2",
+    "series": "SE_TOT_CPLR",
+    "seriesDescription": "Completion rate, by sex, location, wealth quintile and education level (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Location": "ALLAREA",
+    "Quantile": "_T",
+    "Education level": "UPPSEC"
+  },
+  {
+    "goal": "4",
+    "target": "4.1",
+    "indicator": "4.1.2",
+    "series": "SE_TOT_CPLR",
+    "seriesDescription": "Completion rate, by sex, location, wealth quintile and education level (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Location": "ALLAREA",
+    "Quantile": "_T",
+    "Education level": "PRIMAR"
+  },
+  {
+    "goal": "4",
+    "target": "4.1",
+    "indicator": "4.1.2",
+    "series": "SE_TOT_CPLR",
+    "seriesDescription": "Completion rate, by sex, location, wealth quintile and education level (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Location": "ALLAREA",
+    "Quantile": "_T",
+    "Education level": "PRIMAR"
+  },
+  {
+    "goal": "4",
+    "target": "4.1",
+    "indicator": "4.1.2",
+    "series": "SE_TOT_CPLR",
+    "seriesDescription": "Completion rate, by sex, location, wealth quintile and education level (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Location": "ALLAREA",
+    "Quantile": "_T",
+    "Education level": "PRIMAR"
+  },
+  {
+    "goal": "4",
+    "target": "4.2",
+    "indicator": "4.2.2",
+    "series": "SE_PRE_PARTN",
+    "seriesDescription": "Participation rate in organized learning (one year before the official primary entry age), by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "Sex": "MALE",
+    "Reporting Type": "G",
+    "series": "SE_PRE_PARTN",
+    "goal": "4",
+    "target": "4.2",
+    "indicator": "4.2.2",
+    "seriesDescription": "Participation rate in organized learning (one year before the official primary entry age), by sex (%)"
+  },
+  {
+    "Sex": "FEMALE",
+    "Reporting Type": "G",
+    "series": "SE_PRE_PARTN",
+    "goal": "4",
+    "target": "4.2",
+    "indicator": "4.2.2",
+    "seriesDescription": "Participation rate in organized learning (one year before the official primary entry age), by sex (%)"
+  },
+  {
+    "goal": "4",
+    "target": "4.3",
+    "indicator": "4.3.1",
+    "series": "SE_ADT_EDUCTRN",
+    "seriesDescription": "Participation rate in formal and non-formal education and training, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "4",
+    "target": "4.4",
+    "indicator": "4.4.1",
+    "series": "SE_ADT_ACTS",
+    "seriesDescription": "Proportion of youth and adults with information and communications technology (ICT) skills, by sex and type of skill (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Type of skill": "PCPR"
+  },
+  {
+    "goal": "4",
+    "target": "4.5",
+    "indicator": "4.5.1",
+    "series": "SE_GPI_PTNPRE",
+    "seriesDescription": "Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "4",
+    "target": "4.5",
+    "indicator": "4.5.1",
+    "series": "SE_GPI_PART",
+    "seriesDescription": "Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "4",
+    "target": "4.5",
+    "indicator": "4.5.1",
+    "series": "SE_ALP_CPLR",
+    "seriesDescription": "Adjusted location parity index for completion rate, by sex, wealth quintile and education level",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Quantile": "_T",
+    "Education level": "UPPSEC"
+  },
+  {
+    "goal": "4",
+    "target": "4.5",
+    "indicator": "4.5.1",
+    "series": "SE_ALP_CPLR",
+    "seriesDescription": "Adjusted location parity index for completion rate, by sex, wealth quintile and education level",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Quantile": "_T",
+    "Education level": "LOWSEC"
+  },
+  {
+    "goal": "4",
+    "target": "4.5",
+    "indicator": "4.5.1",
+    "series": "SE_ALP_CPLR",
+    "seriesDescription": "Adjusted location parity index for completion rate, by sex, wealth quintile and education level",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Quantile": "_T",
+    "Education level": "PRIMAR"
+  },
+  {
+    "goal": "4",
+    "target": "4.5",
+    "indicator": "4.5.1",
+    "series": "SE_AWP_CPRA",
+    "seriesDescription": "Adjusted wealth parity index for completion rate, by sex, location and education level",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Location": "ALLAREA",
+    "Quantile": "_T",
+    "Education level": "PRIMAR"
+  },
+  {
+    "goal": "4",
+    "target": "4.5",
+    "indicator": "4.5.1",
+    "series": "SE_AGP_CPRA",
+    "seriesDescription": "Adjusted gender parity index for completion rate, by location, wealth quintile and education level",
+    "Reporting Type": "G",
+    "Location": "ALLAREA",
+    "Quantile": "_T",
+    "Education level": "UPPSEC"
+  },
+  {
+    "goal": "4",
+    "target": "4.5",
+    "indicator": "4.5.1",
+    "series": "SE_AGP_CPRA",
+    "seriesDescription": "Adjusted gender parity index for completion rate, by location, wealth quintile and education level",
+    "Reporting Type": "G",
+    "Location": "ALLAREA",
+    "Quantile": "_T",
+    "Education level": "LOWSEC"
+  },
+  {
+    "goal": "4",
+    "target": "4.5",
+    "indicator": "4.5.1",
+    "series": "SE_AGP_CPRA",
+    "seriesDescription": "Adjusted gender parity index for completion rate, by location, wealth quintile and education level",
+    "Reporting Type": "G",
+    "Location": "ALLAREA",
+    "Quantile": "_T",
+    "Education level": "PRIMAR"
+  },
+  {
+    "goal": "4",
+    "target": "4.5",
+    "indicator": "4.5.1",
+    "series": "SE_TOT_GPI_FS",
+    "seriesDescription": "Adjusted gender parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio)",
+    "Reporting Type": "G",
+    "Age": "16-65",
+    "Type of skill": "LITE"
+  },
+  {
+    "goal": "4",
+    "target": "4.6",
+    "indicator": "4.6.1",
+    "series": "SE_ADT_FUNS",
+    "seriesDescription": "Proportion of population achieving at least a fixed level of proficiency in functional skills, by sex, age and type of skill (%)",
+    "Reporting Type": "G",
+    "Age": "16-65",
+    "Sex": "BOTHSEX",
+    "Type of skill": "LITE"
+  },
+  {
+    "goal": "4",
+    "target": "4.b",
+    "indicator": "4.b.1",
+    "series": "DC_TOF_SCHIPSL",
+    "seriesDescription": "Total official flows for scholarships, by recipient countries (millions of constant 2019 United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "4",
+    "target": "4.c",
+    "indicator": "4.c.1",
+    "series": "SE_TRA_GRDL",
+    "seriesDescription": "Proportion of teachers with the minimum required qualifications, by education level and sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Education level": "SECOND"
+  },
+  {
+    "Reporting Type": "G",
+    "series": "SG_LGL_GENEQLFP",
+    "goal": "5",
+    "target": "5.1",
+    "indicator": "5.1.1",
+    "seriesDescription": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life"
+  },
+  {
+    "Reporting Type": "G",
+    "series": "SG_LGL_GENEQVAW",
+    "goal": "5",
+    "target": "5.1",
+    "indicator": "5.1.1",
+    "seriesDescription": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) --  Area 2: violence against women"
+  },
+  {
+    "Reporting Type": "G",
+    "series": "SG_LGL_GENEQEMP",
+    "goal": "5",
+    "target": "5.1",
+    "indicator": "5.1.1",
+    "seriesDescription": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 3: employment and economic benefits"
+  },
+  {
+    "Reporting Type": "G",
+    "series": "SG_LGL_GENEQMAR",
+    "goal": "5",
+    "target": "5.1",
+    "indicator": "5.1.1",
+    "seriesDescription": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 4: marriage and family"
+  },
+  {
+    "Age": "18-24",
+    "Sex": "FEMALE",
+    "Reporting Type": "G",
+    "series": "VC_VAW_MARR",
+    "goal": "5",
+    "target": "5.2",
+    "indicator": "5.2.1",
+    "seriesDescription": "Proportion of women and girls (aged 15-64 years) experiencing violence (physical, sexual or emotional) by a partner or former partner in the last 12 months, by age (%)"
+  },
+  {
+    "Age": "25-44",
+    "Sex": "FEMALE",
+    "Reporting Type": "G",
+    "series": "VC_VAW_MARR",
+    "goal": "5",
+    "target": "5.2",
+    "indicator": "5.2.1",
+    "seriesDescription": "Proportion of women and girls (aged 15-64 years) experiencing violence (physical, sexual or emotional) by a partner or former partner in the last 12 months, by age (%)"
+  },
+  {
+    "Age": "45-59",
+    "Sex": "FEMALE",
+    "Reporting Type": "G",
+    "series": "VC_VAW_MARR",
+    "goal": "5",
+    "target": "5.2",
+    "indicator": "5.2.1",
+    "seriesDescription": "Proportion of women and girls (aged 15-64 years) experiencing violence (physical, sexual or emotional) by a partner or former partner in the last 12 months, by age (%)"
+  },
+  {
+    "Age": "60+",
+    "Sex": "FEMALE",
+    "Reporting Type": "G",
+    "series": "VC_VAW_MARR",
+    "goal": "5",
+    "target": "5.2",
+    "indicator": "5.2.1",
+    "seriesDescription": "Proportion of women and girls (aged 15-64 years) experiencing violence (physical, sexual or emotional) by a partner or former partner in the last 12 months, by age (%)"
+  },
+  {
+    "goal": "5",
+    "target": "5.3",
+    "indicator": "5.3.1",
+    "series": "SP_DYN_MRBF18",
+    "seriesDescription": "Proportion of women aged 20-24 years who were married or in a union before age 18 (%)",
+    "Reporting Type": "G",
+    "Age": "20-24",
+    "Sex": "FEMALE"
+  },
+  {
+    "goal": "5",
+    "target": "5.3",
+    "indicator": "5.3.1",
+    "series": "SP_DYN_MRBF15",
+    "seriesDescription": "Proportion of women aged 20-24 years who were married or in a union before age 15 (%)",
+    "Reporting Type": "G",
+    "Age": "20-24",
+    "Sex": "FEMALE"
+  },
+  {
+    "goal": "5",
+    "target": "5.4",
+    "indicator": "5.4.1",
+    "series": "SL_DOM_TSPD",
+    "seriesDescription": "Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%)",
+    "Reporting Type": "G",
+    "Age": "10+",
+    "Sex": "FEMALE",
+    "Location": "ALLAREA"
+  },
+  {
+    "goal": "5",
+    "target": "5.4",
+    "indicator": "5.4.1",
+    "series": "SL_DOM_TSPD",
+    "seriesDescription": "Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%)",
+    "Reporting Type": "G",
+    "Age": "10+",
+    "Sex": "MALE",
+    "Location": "ALLAREA"
+  },
+  {
+    "goal": "5",
+    "target": "5.5",
+    "indicator": "5.5.1",
+    "series": "SG_GEN_PARL",
+    "seriesDescription": "Proportion of seats held by women in national parliaments (% of total number of seats)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE"
+  },
+  {
+    "goal": "5",
+    "target": "5.5",
+    "indicator": "5.5.1",
+    "series": "SG_GEN_LOCGELS",
+    "seriesDescription": "Proportion of elected seats held by women in deliberative bodies of local government (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE"
+  },
+  {
+    "Sex": "FEMALE",
+    "Reporting Type": "G",
+    "series": "IC_GEN_MGTL",
+    "goal": "5",
+    "target": "5.5",
+    "indicator": "5.5.2",
+    "seriesDescription": "Proportion of women in managerial positions (%)"
+  },
+  {
+    "Sex": "FEMALE",
+    "Reporting Type": "G",
+    "series": "IC_GEN_MGTN",
+    "goal": "5",
+    "target": "5.5",
+    "indicator": "5.5.2",
+    "seriesDescription": "Proportion of women in senior and middle management positions (%)"
+  },
+  {
+    "goal": "5",
+    "target": "5.6",
+    "indicator": "5.6.1",
+    "series": "SH_FPL_INFM",
+    "seriesDescription": "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)",
+    "Reporting Type": "G",
+    "Age": "15-49",
+    "Sex": "FEMALE"
+  },
+  {
+    "goal": "5",
+    "target": "5.6",
+    "indicator": "5.6.2",
+    "series": "SH_LGR_ACSRHE",
+    "seriesDescription": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "5",
+    "target": "5.a",
+    "indicator": "5.a.1",
+    "series": "SP_LGL_LNDAGSEC",
+    "seriesDescription": "Proportion of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "_N"
+  },
+  {
+    "goal": "5",
+    "target": "5.a",
+    "indicator": "5.a.1",
+    "series": "SP_GNP_WNOWNS",
+    "seriesDescription": "Share of women among owners or rights-bearers of agricultural land, by type of tenure (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "5",
+    "target": "5.a",
+    "indicator": "5.a.2",
+    "series": "SG_LGL_LNDFEMOD",
+    "seriesDescription": "Degree to which the legal framework (including customary law) guarantees women\u2019s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "5",
+    "target": "5.b",
+    "indicator": "5.b.1",
+    "series": "IT_MOB_OWN",
+    "seriesDescription": "Proportion of individuals who own a mobile telephone, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "5",
+    "target": "5.b",
+    "indicator": "5.b.1",
+    "series": "IT_MOB_OWN",
+    "seriesDescription": "Proportion of individuals who own a mobile telephone, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE"
+  },
+  {
+    "goal": "6",
+    "target": "6.1",
+    "indicator": "6.1.1",
+    "series": "SH_H2O_SAFE",
+    "seriesDescription": "Proportion of population using safely managed drinking water services, by urban/rural (%)",
+    "Reporting Type": "G",
+    "Location": "ALLAREA"
+  },
+  {
+    "goal": "6",
+    "target": "6.2",
+    "indicator": "6.2.1",
+    "series": "SH_SAN_SAFE",
+    "seriesDescription": "Proportion of population using safely managed sanitation services, by urban/rural (%)",
+    "Reporting Type": "G",
+    "Location": "ALLAREA"
+  },
+  {
+    "goal": "6",
+    "target": "6.3",
+    "indicator": "6.3.1",
+    "series": "EN_WWT_WWDS",
+    "seriesDescription": "Proportion of safely treated domestic wastewater flows (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.3",
+    "indicator": "6.3.2",
+    "series": "EN_H2O_WBAMBQ",
+    "seriesDescription": "Proportion of bodies of water with good ambient water quality (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.4",
+    "indicator": "6.4.1",
+    "series": "ER_H2O_WUEYST",
+    "seriesDescription": "Water Use Efficiency (United States dollars per cubic meter)",
+    "Reporting Type": "G",
+    "Activity": "TOTAL"
+  },
+  {
+    "goal": "6",
+    "target": "6.4",
+    "indicator": "6.4.2",
+    "series": "ER_H2O_STRESS",
+    "seriesDescription": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%)",
+    "Reporting Type": "G",
+    "Activity": "INDUSTRIES"
+  },
+  {
+    "goal": "6",
+    "target": "6.5",
+    "indicator": "6.5.1",
+    "series": "ER_H2O_IWRMD",
+    "seriesDescription": "Degree of integrated water resources management implementation (%)",
+    "Reporting Type": "G",
+    "Level/Status": "_T"
+  },
+  {
+    "goal": "6",
+    "target": "6.5",
+    "indicator": "6.5.2",
+    "series": "EG_TBA_H2CO",
+    "seriesDescription": "Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.6",
+    "indicator": "6.6.1",
+    "series": "EN_WBE_NDQTGRW",
+    "seriesDescription": "Nationally derived quantity of groundwater (millions of cubic metres per annum)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.6",
+    "indicator": "6.6.1",
+    "series": "EN_WBE_NDQTRVR",
+    "seriesDescription": "Nationally derived quantity of rivers (million of cubic metres per annum)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.6",
+    "indicator": "6.6.1",
+    "series": "EN_LKRV_PWAP",
+    "seriesDescription": "Lakes and rivers permanent water area (% of total land area)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.6",
+    "indicator": "6.6.1",
+    "series": "EN_LKRV_SWAP",
+    "seriesDescription": "Lakes and rivers seasonal water area (% of total land area)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.6",
+    "indicator": "6.6.1",
+    "series": "EN_LKRV_PWAC",
+    "seriesDescription": "Lakes and rivers permanent water area change (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.6",
+    "indicator": "6.6.1",
+    "series": "EN_LKRV_SWAC",
+    "seriesDescription": "Lakes and rivers seasonal water area change (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.6",
+    "indicator": "6.6.1",
+    "series": "EN_RSRV_MNWAP",
+    "seriesDescription": "Reservoir minimum water area (% of total land area)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.6",
+    "indicator": "6.6.1",
+    "series": "EN_RSRV_MXWAP",
+    "seriesDescription": "Reservoir maximum water area (% of total land area)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.6",
+    "indicator": "6.6.1",
+    "series": "EN_WBE_WTLP",
+    "seriesDescription": "Wetlands area (% of total land area)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.6",
+    "indicator": "6.6.1",
+    "series": "EN_LKW_QLTRB",
+    "seriesDescription": "Lake water quality turbidity (%)",
+    "Reporting Type": "G",
+    "Deviation Level": "EXTREME"
+  },
+  {
+    "goal": "6",
+    "target": "6.6",
+    "indicator": "6.6.1",
+    "series": "EN_LKW_QLTRST",
+    "seriesDescription": "Lake water quality trophic state (%)",
+    "Reporting Type": "G",
+    "Deviation Level": "MEDIUM"
+  },
+  {
+    "goal": "6",
+    "target": "6.6",
+    "indicator": "6.6.1",
+    "series": "EN_WBE_MANGN",
+    "seriesDescription": "Mangrove area (square kilometres)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.6",
+    "indicator": "6.6.1",
+    "series": "EN_WBE_MANGC",
+    "seriesDescription": "Mangrove total area change (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.a",
+    "indicator": "6.a.1",
+    "series": "DC_TOF_WASHL",
+    "seriesDescription": "Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2019 United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.b",
+    "indicator": "6.b.1",
+    "series": "ER_WAT_PART",
+    "seriesDescription": "Countries with users/communities participating in planning programs in water resources planning and management, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "6",
+    "target": "6.b",
+    "indicator": "6.b.1",
+    "series": "ER_WAT_PRDU",
+    "seriesDescription": "Countries with procedures in law or policy for participation by service users/communities in planning program in water resources planning and management, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "7",
+    "target": "7.b",
+    "indicator": "7.b.1",
+    "series": "EG_EGY_RNEW",
+    "seriesDescription": "Installed renewable\u00a0electricity-generating capacity (watts per capita)",
+    "Reporting Type": "G",
+    "Type of renewable technology": "SOLAR"
+  },
+  {
+    "goal": "7",
+    "target": "7.1",
+    "indicator": "7.1.1",
+    "series": "EG_ACS_ELEC",
+    "seriesDescription": "Proportion of population with access to electricity, by urban/rural (%)",
+    "Reporting Type": "G",
+    "Location": "ALLAREA"
+  },
+  {
+    "goal": "7",
+    "target": "7.1",
+    "indicator": "7.1.2",
+    "series": "EG_EGY_CLEAN",
+    "seriesDescription": "Proportion of population with primary reliance on clean fuels and technology (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "Reporting Type": "G",
+    "series": "EG_FEC_RNEW",
+    "goal": "7",
+    "target": "7.2",
+    "indicator": "7.2.1",
+    "seriesDescription": "Renewable energy mix (%)"
+  },
+  {
+    "goal": "7",
+    "target": "7.3",
+    "indicator": "7.3.1",
+    "series": "EG_EGY_PRIM",
+    "seriesDescription": "Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "7",
+    "target": "7.a",
+    "indicator": "7.a.1",
+    "series": "EG_IFF_RANDN",
+    "seriesDescription": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant United States dollars)",
+    "Reporting Type": "G",
+    "Type of renewable technology": "SOLAR"
+  },
+  {
+    "goal": "8",
+    "target": "8.1",
+    "indicator": "8.1.1",
+    "series": "NY_GDP_PCAP",
+    "seriesDescription": "Annual growth rate of real GDP per capita (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "8",
+    "target": "8.3",
+    "indicator": "8.3.1",
+    "series": "SL_ISV_IFEM",
+    "seriesDescription": "Proportion of informal employment, by sector and sex (ILO harmonized estimates) (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Activity": "TOTAL"
+  },
+  {
+    "goal": "8",
+    "target": "8.3",
+    "indicator": "8.3.1",
+    "series": "SL_ISV_IFEM",
+    "seriesDescription": "Proportion of informal employment, by sector and sex (ILO harmonized estimates) (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Activity": "ISIC4_A"
+  },
+  {
+    "goal": "8",
+    "target": "8.4",
+    "indicator": "8.4.2",
+    "series": "EN_MAT_DOMCMPG",
+    "seriesDescription": "Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",
+    "Reporting Type": "G",
+    "Type of product": "MEO"
+  },
+  {
+    "goal": "8",
+    "target": "8.4",
+    "indicator": "8.4.2",
+    "series": "EN_MAT_DOMCMPC",
+    "seriesDescription": "Domestic material consumption per capita, by type of raw material (tonnes)",
+    "Reporting Type": "G",
+    "Type of product": "NFO"
+  },
+  {
+    "goal": "8",
+    "target": "8.5",
+    "indicator": "8.5.1",
+    "series": "SL_EMP_EARN",
+    "seriesDescription": "Average hourly earnings of employees by sex and occupation (local currency)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Type of occupation": "isco08-6"
+  },
+  {
+    "goal": "8",
+    "target": "8.5",
+    "indicator": "8.5.1",
+    "series": "SL_EMP_EARN",
+    "seriesDescription": "Average hourly earnings of employees by sex and occupation (local currency)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Type of occupation": "isco08-4"
+  },
+  {
+    "goal": "8",
+    "target": "8.5",
+    "indicator": "8.5.1",
+    "series": "SL_EMP_EARN",
+    "seriesDescription": "Average hourly earnings of employees by sex and occupation (local currency)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Type of occupation": "isco08-0"
+  },
+  {
+    "goal": "8",
+    "target": "8.5",
+    "indicator": "8.5.1",
+    "series": "SL_EMP_EARN",
+    "seriesDescription": "Average hourly earnings of employees by sex and occupation (local currency)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Type of occupation": "isco08-2"
+  },
+  {
+    "goal": "8",
+    "target": "8.5",
+    "indicator": "8.5.1",
+    "series": "SL_EMP_EARN",
+    "seriesDescription": "Average hourly earnings of employees by sex and occupation (local currency)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Type of occupation": "isco08-7"
+  },
+  {
+    "goal": "8",
+    "target": "8.5",
+    "indicator": "8.5.1",
+    "series": "SL_EMP_EARN",
+    "seriesDescription": "Average hourly earnings of employees by sex and occupation (local currency)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Type of occupation": "isco08-3"
+  },
+  {
+    "goal": "8",
+    "target": "8.5",
+    "indicator": "8.5.1",
+    "series": "SL_EMP_EARN",
+    "seriesDescription": "Average hourly earnings of employees by sex and occupation (local currency)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Type of occupation": "_T"
+  },
+  {
+    "goal": "8",
+    "target": "8.10",
+    "indicator": "8.10.1",
+    "series": "FB_ATM_TOTL",
+    "seriesDescription": "Number of automated teller machines (ATMs) per 100,000 adults",
+    "Reporting Type": "G",
+    "Age": "15+"
+  },
+  {
+    "goal": "8",
+    "target": "8.10",
+    "indicator": "8.10.1",
+    "series": "FB_CBK_BRCH",
+    "seriesDescription": "Number of commercial bank branches per 100,000 adults",
+    "Reporting Type": "G",
+    "Age": "15+"
+  },
+  {
+    "goal": "8",
+    "target": "8.10",
+    "indicator": "8.10.2",
+    "series": "FB_BNK_ACCSS",
+    "seriesDescription": "Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)",
+    "Reporting Type": "G",
+    "Age": "15+",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "13",
+    "target": "13.2",
+    "indicator": "13.2.2",
+    "series": "EN_ATM_GHGT_NAIP",
+    "seriesDescription": "Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO\u2082 equivalent)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "8",
+    "target": "8.5",
+    "indicator": "8.5.1",
+    "series": "SL_EMP_EARN",
+    "seriesDescription": "Average hourly earnings of employees by sex and occupation (local currency)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Type of occupation": "isco08-X"
+  },
+  {
+    "goal": "8",
+    "target": "8.5",
+    "indicator": "8.5.1",
+    "series": "SL_EMP_EARN",
+    "seriesDescription": "Average hourly earnings of employees by sex and occupation (local currency)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Type of occupation": "isco08-9"
+  },
+  {
+    "goal": "8",
+    "target": "8.5",
+    "indicator": "8.5.1",
+    "series": "SL_EMP_EARN",
+    "seriesDescription": "Average hourly earnings of employees by sex and occupation (local currency)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Type of occupation": "isco08-8"
+  },
+  {
+    "goal": "8",
+    "target": "8.5",
+    "indicator": "8.5.1",
+    "series": "SL_EMP_EARN",
+    "seriesDescription": "Average hourly earnings of employees by sex and occupation (local currency)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Type of occupation": "isco08-5"
+  },
+  {
+    "goal": "8",
+    "target": "8.5",
+    "indicator": "8.5.1",
+    "series": "SL_EMP_EARN",
+    "seriesDescription": "Average hourly earnings of employees by sex and occupation (local currency)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Type of occupation": "isco08-1"
+  },
+  {
+    "goal": "8",
+    "target": "8.5",
+    "indicator": "8.5.2",
+    "series": "SL_TLF_UEM",
+    "seriesDescription": "Unemployment rate, by sex and age (%)",
+    "Reporting Type": "G",
+    "Age": "15+",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "8",
+    "target": "8.6",
+    "indicator": "8.6.1",
+    "series": "SL_TLF_NEET",
+    "seriesDescription": "Proportion of youth not in education, employment or training, by sex and age (%)",
+    "Reporting Type": "G",
+    "Age": "15-24",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "8",
+    "target": "8.7",
+    "indicator": "8.7.1",
+    "series": "SL_TLF_CHLDEC",
+    "seriesDescription": "Proportion of children engaged in economic activity and household chores, by sex and age (%)",
+    "Reporting Type": "G",
+    "Age": "7-17",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "8",
+    "target": "8.7",
+    "indicator": "8.7.1",
+    "series": "SL_TLF_CHLDEA",
+    "seriesDescription": "Proportion of children engaged in economic activity, by sex and age  (%)",
+    "Reporting Type": "G",
+    "Age": "7-17",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "8",
+    "target": "8.8",
+    "indicator": "8.8.2",
+    "series": "SL_LBR_NTLCPL",
+    "seriesDescription": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "8",
+    "target": "8.9",
+    "indicator": "8.9.1",
+    "series": "ST_GDP_ZS",
+    "seriesDescription": "Tourism direct GDP as a proportion of total GDP (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "8",
+    "target": "8.a",
+    "indicator": "8.a.1",
+    "series": "DC_TOF_TRDDBML",
+    "seriesDescription": "Total official flows (disbursement) for Aid for Trade, by recipient countries (millions of constant 2019 United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "8",
+    "target": "8.b",
+    "indicator": "8.b.1",
+    "series": "SL_CPA_YEMP",
+    "seriesDescription": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "9",
+    "target": "9.1",
+    "indicator": "9.1.2",
+    "series": "IS_RDP_FRGVOL",
+    "seriesDescription": "Freight volume, by mode of transport (tonne kilometres)",
+    "Reporting Type": "G",
+    "Mode of transportation": "AIR"
+  },
+  {
+    "goal": "9",
+    "target": "9.1",
+    "indicator": "9.1.2",
+    "series": "IS_RDP_PFVOL",
+    "seriesDescription": "Passenger volume (passenger kilometres), by mode of transport",
+    "Reporting Type": "G",
+    "Mode of transportation": "ROA"
+  },
+  {
+    "goal": "9",
+    "target": "9.1",
+    "indicator": "9.1.2",
+    "series": "IS_RDP_PORFVOL",
+    "seriesDescription": "Container port traffic, maritime transport (twenty-foot equivalent units - TEUs)",
+    "Reporting Type": "G",
+    "Mode of transportation": "SEA"
+  },
+  {
+    "goal": "9",
+    "target": "9.2",
+    "indicator": "9.2.1",
+    "series": "NV_IND_MANFPC",
+    "seriesDescription": "Manufacturing value added per capita (constant 2015 United States dollars)",
+    "Reporting Type": "G",
+    "Activity": "ISIC4_C"
+  },
+  {
+    "goal": "9",
+    "target": "9.2",
+    "indicator": "9.2.1",
+    "series": "NV_IND_MANF",
+    "seriesDescription": "Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%)",
+    "Reporting Type": "G",
+    "Activity": "ISIC4_C"
+  },
+  {
+    "goal": "9",
+    "target": "9.2",
+    "indicator": "9.2.2",
+    "series": "SL_TLF_MANF",
+    "seriesDescription": "Manufacturing employment as a proportion of total employment (%)",
+    "Reporting Type": "G",
+    "Activity": "ISIC4_C"
+  },
+  {
+    "goal": "9",
+    "target": "9.3",
+    "indicator": "9.3.2",
+    "series": "FC_ACC_SSID",
+    "seriesDescription": "Proportion of small-scale industries with a loan or line of credit (%)",
+    "Reporting Type": "G",
+    "Activity": "ISIC4_C"
+  },
+  {
+    "goal": "9",
+    "target": "9.4",
+    "indicator": "9.4.1",
+    "series": "EN_ATM_CO2",
+    "seriesDescription": "Carbon dioxide emissions from fuel combustion (millions of tonnes)",
+    "Reporting Type": "G",
+    "Activity": "ISIC4_C10T32X19"
+  },
+  {
+    "goal": "9",
+    "target": "9.4",
+    "indicator": "9.4.1",
+    "series": "EN_ATM_CO2MVA",
+    "seriesDescription": "Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)",
+    "Reporting Type": "G",
+    "Activity": "ISIC4_C"
+  },
+  {
+    "goal": "9",
+    "target": "9.4",
+    "indicator": "9.4.1",
+    "series": "EN_ATM_CO2GDP",
+    "seriesDescription": "Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "9",
+    "target": "9.5",
+    "indicator": "9.5.1",
+    "series": "GB_XPD_RSDV",
+    "seriesDescription": "Research and development expenditure as a proportion of GDP (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "9",
+    "target": "9.5",
+    "indicator": "9.5.2",
+    "series": "GB_POP_SCIERD",
+    "seriesDescription": "Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "9",
+    "target": "9.a",
+    "indicator": "9.a.1",
+    "series": "DC_TOF_INFRAL",
+    "seriesDescription": "Total official flows for infrastructure, by recipient countries (millions of constant 2019 United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "9",
+    "target": "9.b",
+    "indicator": "9.b.1",
+    "series": "NV_IND_TECH",
+    "seriesDescription": "Proportion of medium and high-tech manufacturing value added in total value added (%)",
+    "Reporting Type": "G",
+    "Activity": "ISIC4_C"
+  },
+  {
+    "goal": "9",
+    "target": "9.c",
+    "indicator": "9.c.1",
+    "series": "IT_MOB_2GNTWK",
+    "seriesDescription": "Proportion of population covered by at least a 2G mobile network (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "9",
+    "target": "9.c",
+    "indicator": "9.c.1",
+    "series": "IT_MOB_3GNTWK",
+    "seriesDescription": "Proportion of population covered by at least a 3G mobile network (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "10",
+    "target": "10.2",
+    "indicator": "10.2.1",
+    "series": "SI_POV_50MI",
+    "seriesDescription": "Proportion of people living below 50 percent of median income (%)",
+    "Reporting Type": "G",
+    "Quantile": "B50"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "DISHEA"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "AGE"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "AGE"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "ETH"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "LANDIA"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "LANDIA"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "RACE"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "RACE"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "GEO"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "AGE"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "RELIGION"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "GEO"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "POLVIEW"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SEXO"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SOCIOECON"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "OTHER"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "RELIGION"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "RELIGION"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "POLVIEW"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SOCIOECON"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SEX"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SEX"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SEX"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "EDU"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SOCIOECON"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "MIG"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "MIG"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "DISHEA"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "DISHEA"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "ETH"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "ETH"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "MIG"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "RACE"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "OTHER"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "POLVIEW"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "LANDIA"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SEXO"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "GEO"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "EDU"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SEXO"
+  },
+  {
+    "goal": "10",
+    "target": "10.3",
+    "indicator": "10.3.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "EDU"
+  },
+  {
+    "goal": "10",
+    "target": "10.4",
+    "indicator": "10.4.1",
+    "series": "SL_EMP_GTOTL",
+    "seriesDescription": "Labour share of GDP (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "Reporting Type": "G",
+    "Fiscal intervention stage": "POSTFIS_CON_INC",
+    "series": "SI_DST_FISP",
+    "goal": "10",
+    "target": "10.4",
+    "indicator": "10.4.2",
+    "seriesDescription": "Redistributive impact of fiscal policy, Gini index (%)"
+  },
+  {
+    "goal": "10",
+    "target": "10.5",
+    "indicator": "10.5.1",
+    "series": "FI_FSI_FSANL",
+    "seriesDescription": "Non-performing loans to total gross loans (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "10",
+    "target": "10.5",
+    "indicator": "10.5.1",
+    "series": "FI_FSI_FSERA",
+    "seriesDescription": "Return on assets (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "10",
+    "target": "10.5",
+    "indicator": "10.5.1",
+    "series": "FI_FSI_FSKA",
+    "seriesDescription": "Regulatory capital to assets (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "10",
+    "target": "10.5",
+    "indicator": "10.5.1",
+    "series": "FI_FSI_FSKRTC",
+    "seriesDescription": "Regulatory Tier 1 capital to risk-weighted assets (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "10",
+    "target": "10.5",
+    "indicator": "10.5.1",
+    "series": "FI_FSI_FSLS",
+    "seriesDescription": "Liquid assets to short term liabilities (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "10",
+    "target": "10.5",
+    "indicator": "10.5.1",
+    "series": "FI_FSI_FSSNO",
+    "seriesDescription": "Net open position in foreign exchange to capital (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "WTO"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "IBRD"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "AFDB"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "UNGA"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "IMF"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "IFC"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "FSB"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "ECOSOC"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "UNSC"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "AFDB"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "FSB"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "IMF"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "IFC"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "UNGA"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "WTO"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "IBRD"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "ECOSOC"
+  },
+  {
+    "goal": "10",
+    "target": "10.6",
+    "indicator": "10.6.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "UNSC"
+  },
+  {
+    "goal": "10",
+    "target": "10.7",
+    "indicator": "10.7.3",
+    "series": "SM_DTH_MIGR",
+    "seriesDescription": "Total deaths and disappearances recorded during migration (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "10",
+    "target": "10.7",
+    "indicator": "10.7.4",
+    "series": "SM_POP_REFG_OR",
+    "seriesDescription": "Number of refugees per 100,000 population, by country of origin (per 100,000 population)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "10",
+    "target": "10.a",
+    "indicator": "10.a.1",
+    "series": "TM_TRF_ZERO",
+    "seriesDescription": "Proportion of tariff lines applied to imports with zero-tariff (%)",
+    "Reporting Type": "G",
+    "Type of product": "CLO"
+  },
+  {
+    "goal": "10",
+    "target": "10.b",
+    "indicator": "10.b.1",
+    "series": "DC_TRF_TOTL",
+    "seriesDescription": "Total assistance for development, by recipient countries (millions of current United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "10",
+    "target": "10.c",
+    "indicator": "10.c.1",
+    "series": "SI_RMT_COST",
+    "seriesDescription": "Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "10",
+    "target": "10.c",
+    "indicator": "10.c.1",
+    "series": "SI_RMT_COST_SC",
+    "seriesDescription": "SmaRT average remittance costs of sending $200 in a corridor as a proportion of the amount remitted (%)",
+    "Reporting Type": "G",
+    "Counterpart": "ZM"
+  },
+  {
+    "goal": "11",
+    "target": "11.5",
+    "indicator": "11.5.1",
+    "series": "VC_DSR_MTMP",
+    "seriesDescription": "Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "11",
+    "target": "11.5",
+    "indicator": "11.5.1",
+    "series": "VC_DSR_DAFF",
+    "seriesDescription": "Number of directly affected persons attributed to disasters per 100,000 population (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "11",
+    "target": "11.5",
+    "indicator": "11.5.2",
+    "series": "VC_DSR_LSGP",
+    "seriesDescription": "Direct economic loss attributed to disasters relative to GDP (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "11",
+    "target": "11.b",
+    "indicator": "11.b.1",
+    "series": "SG_DSR_LGRGSR",
+    "seriesDescription": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "11",
+    "target": "11.b",
+    "indicator": "11.b.2",
+    "series": "SG_DSR_SILS",
+    "seriesDescription": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "11",
+    "target": "11.1",
+    "indicator": "11.1.1",
+    "series": "EN_LND_SLUM",
+    "seriesDescription": "Proportion of urban population living in slums (%)",
+    "Reporting Type": "G",
+    "Location": "URBAN"
+  },
+  {
+    "goal": "11",
+    "target": "11.5",
+    "indicator": "11.5.3",
+    "series": "VC_DSR_CDAN",
+    "seriesDescription": "Number of damaged critical infrastructure attributed to disasters (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "11",
+    "target": "11.5",
+    "indicator": "11.5.3",
+    "series": "VC_DSR_HFDN",
+    "seriesDescription": "Number of destroyed or damaged health facilities attributed to disasters (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "11",
+    "target": "11.5",
+    "indicator": "11.5.3",
+    "series": "VC_DSR_EFDN",
+    "seriesDescription": "Number of destroyed or damaged educational facilities attributed to disasters (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "11",
+    "target": "11.5",
+    "indicator": "11.5.3",
+    "series": "VC_DSR_CDYN",
+    "seriesDescription": "Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "11",
+    "target": "11.5",
+    "indicator": "11.5.3",
+    "series": "VC_DSR_BSDN",
+    "seriesDescription": "Number of disruptions to basic services attributed to disasters (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "11",
+    "target": "11.5",
+    "indicator": "11.5.3",
+    "series": "VC_DSR_OBDN",
+    "seriesDescription": "Number of disruptions to other basic services attributed to disasters (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "11",
+    "target": "11.6",
+    "indicator": "11.6.1",
+    "series": "EN_REF_WASCOL",
+    "seriesDescription": "Municipal Solid Waste collection coverage, by cities (%)",
+    "Reporting Type": "G",
+    "Cities": "JOHANNESBURG"
+  },
+  {
+    "goal": "11",
+    "target": "11.6",
+    "indicator": "11.6.2",
+    "series": "EN_ATM_PM25",
+    "seriesDescription": "Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)",
+    "Reporting Type": "G",
+    "Location": "ALLAREA"
+  },
+  {
+    "goal": "11",
+    "target": "11.a",
+    "indicator": "11.a.1",
+    "series": "SD_CPA_UPRDP",
+    "seriesDescription": "Countries that have national urban policies or regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space (1 = YES; 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "12",
+    "target": "12.2",
+    "indicator": "12.2.2",
+    "series": "EN_MAT_DOMCMPG",
+    "seriesDescription": "Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)",
+    "Reporting Type": "G",
+    "Type of product": "MEO"
+  },
+  {
+    "goal": "12",
+    "target": "12.2",
+    "indicator": "12.2.2",
+    "series": "EN_MAT_DOMCMPC",
+    "seriesDescription": "Domestic material consumption per capita, by type of raw material (tonnes)",
+    "Reporting Type": "G",
+    "Type of product": "NFO"
+  },
+  {
+    "goal": "12",
+    "target": "12.3",
+    "indicator": "12.3.1",
+    "series": "AG_FOOD_WST_PC",
+    "seriesDescription": "Food waste per capita (KG)",
+    "Reporting Type": "G",
+    "Food Waste Sector": "HHS"
+  },
+  {
+    "goal": "12",
+    "target": "12.4",
+    "indicator": "12.4.1",
+    "series": "SG_HAZ_CMRMNTRL",
+    "seriesDescription": "Parties meeting their commitments and obligations in transmitting information as required by Montreal Protocol on hazardous waste, and other chemicals",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "12",
+    "target": "12.4",
+    "indicator": "12.4.2",
+    "series": "EN_EWT_GENPCAP",
+    "seriesDescription": "Electronic waste generated, per capita (Kg)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "12",
+    "target": "12.4",
+    "indicator": "12.4.2",
+    "series": "EN_HAZ_PCAP",
+    "seriesDescription": "Hazardous waste generated, per capita (Kg)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "12",
+    "target": "12.4",
+    "indicator": "12.4.2",
+    "series": "EN_HAZ_GENGDP",
+    "seriesDescription": "Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "12",
+    "target": "12.4",
+    "indicator": "12.4.2",
+    "series": "EN_HAZ_TRTDISV",
+    "seriesDescription": "Hazardous waste treated or disposed (Tonnes)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "12",
+    "target": "12.4",
+    "indicator": "12.4.2",
+    "series": "EN_HAZ_EXP",
+    "seriesDescription": "Hazardous waste exported, (Tonnes)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "12",
+    "target": "12.4",
+    "indicator": "12.4.2",
+    "series": "EN_HAZ_IMP",
+    "seriesDescription": "Hazardous waste imported, (Tonnes)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "12",
+    "target": "12.6",
+    "indicator": "12.6.1",
+    "series": "EN_SCP_FRMN",
+    "seriesDescription": "Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement (Number)",
+    "Reporting Type": "G",
+    "Activity": "ISIC4_C",
+    "Level of requirement": "TOTAL"
+  },
+  {
+    "goal": "12",
+    "target": "12.8",
+    "indicator": "12.8.1",
+    "series": "SE_GCEDESD_NEP",
+    "seriesDescription": "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "12",
+    "target": "12.8",
+    "indicator": "12.8.1",
+    "series": "SE_GCEDESD_CUR",
+    "seriesDescription": "Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "12",
+    "target": "12.a",
+    "indicator": "12.a.1",
+    "series": "EG_EGY_RNEW",
+    "seriesDescription": "Installed renewable\u00a0electricity-generating capacity (watts per capita)",
+    "Reporting Type": "G",
+    "Type of renewable technology": "SOLAR"
+  },
+  {
+    "goal": "12",
+    "target": "12.b",
+    "indicator": "12.b.1",
+    "series": "ST_EEV_STDACCT",
+    "seriesDescription": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "12",
+    "target": "12.c",
+    "indicator": "12.c.1",
+    "series": "ER_FFS_CMPT_GDP",
+    "seriesDescription": "Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "12",
+    "target": "12.c",
+    "indicator": "12.c.1",
+    "series": "ER_FFS_CMPT_PC_CD",
+    "seriesDescription": "Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "13",
+    "target": "13.1",
+    "indicator": "13.1.1",
+    "series": "VC_DSR_MTMP",
+    "seriesDescription": "Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "13",
+    "target": "13.1",
+    "indicator": "13.1.1",
+    "series": "VC_DSR_DAFF",
+    "seriesDescription": "Number of directly affected persons attributed to disasters per 100,000 population (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "13",
+    "target": "13.1",
+    "indicator": "13.1.2",
+    "series": "SG_DSR_LGRGSR",
+    "seriesDescription": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
+    "Reporting Type": "G"
+  },
+  {
+    "Reporting Type": "G",
+    "series": "SG_DSR_SILS",
+    "goal": "13",
+    "target": "13.1",
+    "indicator": "13.1.3",
+    "seriesDescription": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)"
+  },
+  {
+    "Reporting Type": "G",
+    "series": "SG_DSR_SILN",
+    "goal": "13",
+    "target": "13.1",
+    "indicator": "13.1.3",
+    "seriesDescription": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)"
+  },
+  {
+    "goal": "13",
+    "target": "13.3",
+    "indicator": "13.3.1",
+    "series": "SE_GCEDESD_NEP",
+    "seriesDescription": "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "13",
+    "target": "13.3",
+    "indicator": "13.3.1",
+    "series": "SE_GCEDESD_CUR",
+    "seriesDescription": "Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "14",
+    "target": "14.1",
+    "indicator": "14.1.1",
+    "series": "EN_MAR_CHLDEV",
+    "seriesDescription": "Chlorophyll-a deviations, remote sensing (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "14",
+    "target": "14.1",
+    "indicator": "14.1.1",
+    "series": "EN_MAR_CHLANM",
+    "seriesDescription": "Chlorophyll-a anomaly, remote sensing (%)",
+    "Reporting Type": "G",
+    "Frequency of Chlorophyll-a concentration": "High"
+  },
+  {
+    "goal": "14",
+    "target": "14.1",
+    "indicator": "14.1.1",
+    "series": "EN_MAR_BEALITSQ",
+    "seriesDescription": "Beach litter per square kilometer (Number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "14",
+    "target": "14.1",
+    "indicator": "14.1.1",
+    "series": "EN_MAR_BEALIT_BP",
+    "seriesDescription": "Beach litter originating from national land-based sources that ends in the beach (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "14",
+    "target": "14.3",
+    "indicator": "14.3.1",
+    "series": "ER_OAW_MNACD",
+    "seriesDescription": "Average marine acidity (pH) measured at agreed suite of representative sampling stations",
+    "Reporting Type": "G",
+    "Sampling Stations": "ALGOA"
+  },
+  {
+    "goal": "14",
+    "target": "14.4",
+    "indicator": "14.4.1",
+    "series": "ER_H2O_FWTL",
+    "seriesDescription": "Proportion of fish stocks within biologically sustainable levels (not overexploited) (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "14",
+    "target": "14.5",
+    "indicator": "14.5.1",
+    "series": "ER_MRN_MPA",
+    "seriesDescription": "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "14",
+    "target": "14.6",
+    "indicator": "14.6.1",
+    "series": "ER_REG_UNFCIM",
+    "seriesDescription": "Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "14",
+    "target": "14.7",
+    "indicator": "14.7.1",
+    "series": "EN_SCP_FSHGDP",
+    "seriesDescription": "Sustainable fisheries as a proportion of GDP"
+  },
+  {
+    "goal": "14",
+    "target": "14.a",
+    "indicator": "14.a.1",
+    "series": "ER_RDE_OSEX",
+    "seriesDescription": "National ocean science expenditure as a share of total research and development funding (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "14",
+    "target": "14.b",
+    "indicator": "14.b.1",
+    "series": "ER_REG_SSFRAR",
+    "seriesDescription": "Degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries (level of implementation: 1 lowest to 5 highest)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.1",
+    "indicator": "15.1.1",
+    "series": "AG_LND_FRST",
+    "seriesDescription": "Forest area as a proportion of total land area (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.1",
+    "indicator": "15.1.2",
+    "series": "ER_PTD_FRHWTR",
+    "seriesDescription": "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.1",
+    "indicator": "15.1.2",
+    "series": "ER_PTD_TERR",
+    "seriesDescription": "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.2",
+    "indicator": "15.2.1",
+    "series": "AG_LND_FRSTCHG",
+    "seriesDescription": "Annual forest area change rate (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.2",
+    "indicator": "15.2.1",
+    "series": "AG_LND_FRSTMGT",
+    "seriesDescription": "Proportion of forest area with a long-term management plan (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.2",
+    "indicator": "15.2.1",
+    "series": "AG_LND_FRSTPRCT",
+    "seriesDescription": "Proportion of forest area within legally established protected areas (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.3",
+    "indicator": "15.3.1",
+    "series": "AG_LND_DGRD",
+    "seriesDescription": "Proportion of land that is degraded over total land area (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.4",
+    "indicator": "15.4.1",
+    "series": "ER_PTD_MTN",
+    "seriesDescription": "Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.4",
+    "indicator": "15.4.2",
+    "series": "ER_MTN_GRNCVI",
+    "seriesDescription": "Mountain Green Cover Index",
+    "Reporting Type": "G",
+    "Mountain Elevation": "5"
+  },
+  {
+    "goal": "15",
+    "target": "15.5",
+    "indicator": "15.5.1",
+    "series": "ER_RSK_LST",
+    "seriesDescription": "Red List Index",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.6",
+    "indicator": "15.6.1",
+    "series": "ER_CBD_SMTA",
+    "seriesDescription": "Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.6",
+    "indicator": "15.6.1",
+    "series": "ER_CBD_ORSPGRFA",
+    "seriesDescription": "Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.6",
+    "indicator": "15.6.1",
+    "series": "ER_CBD_PTYPGRFA",
+    "seriesDescription": "Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.8",
+    "indicator": "15.8.1",
+    "series": "ER_IAS_LEGIS",
+    "seriesDescription": "Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.8",
+    "indicator": "15.8.1",
+    "series": "ER_IAS_NBSAP",
+    "seriesDescription": "National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.8",
+    "indicator": "15.8.1",
+    "series": "ER_IAS_NATBUD",
+    "seriesDescription": "Countries with an allocation from the national budget to manage the threat of invasive alien species\u00a0(1 = YES, 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.8",
+    "indicator": "15.8.1",
+    "series": "ER_IAS_GLOFUN",
+    "seriesDescription": "Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species\u00a0 management (1 = YES, 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "15",
+    "target": "15.a",
+    "indicator": "15.a.1",
+    "series": "DC_ODA_BDVL",
+    "seriesDescription": "Total official development assistance for biodiversity, by recipient countries (millions of constant 2018 United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "DISHEA"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "AGE"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "AGE"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "ETH"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "LANDIA"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "LANDIA"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "OTHER"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "RACE"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "RACE"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "GEO"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "AGE"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "RELIGION"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "GEO"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "POLVIEW"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SEXO"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SOCIOECON"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "OTHER"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "RELIGION"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "RELIGION"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "POLVIEW"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SOCIOECON"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SEX"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SEX"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SEX"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "EDU"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SOCIOECON"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "MIG"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "MIG"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "DISHEA"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "DISHEA"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "ETH"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "ETH"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "MIG"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "RACE"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "OTHER"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "POLVIEW"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "LANDIA"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SEXO"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX",
+    "Disability status": "_T",
+    "Grounds of discrimination": "GEO"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "MALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "EDU"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "SEXO"
+  },
+  {
+    "goal": "16",
+    "target": "16.b",
+    "indicator": "16.b.1",
+    "series": "VC_VOV_GDSD",
+    "seriesDescription": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)",
+    "Reporting Type": "G",
+    "Sex": "FEMALE",
+    "Disability status": "_T",
+    "Grounds of discrimination": "EDU"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "WTO"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "IBRD"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "AFDB"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "UNGA"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "IMF"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "IFC"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "FSB"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "ECOSOC"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_MBRDEV",
+    "seriesDescription": "Proportion of members of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "UNSC"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "AFDB"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "FSB"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "IMF"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "IFC"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "UNGA"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "WTO"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "IBRD"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "ECOSOC"
+  },
+  {
+    "goal": "16",
+    "target": "16.8",
+    "indicator": "16.8.1",
+    "series": "SG_INT_VRTDEV",
+    "seriesDescription": "Proportion of voting rights of developing countries in international organizations, by organization (%)",
+    "Reporting Type": "G",
+    "Name of international institution": "UNSC"
+  },
+  {
+    "Sex": "BOTHSEX",
+    "Reporting Type": "G",
+    "series": "VC_IHR_PSRC",
+    "goal": "16",
+    "target": "16.1",
+    "indicator": "16.1.1",
+    "seriesDescription": "Number of victims of intentional homicide per 100,000 population, by sex (victims per 100,000 population)"
+  },
+  {
+    "goal": "16",
+    "target": "16.1",
+    "indicator": "16.1.3",
+    "series": "VC_VOV_PHYL",
+    "seriesDescription": "Proportion of population subjected to physical violence in the previous 12 months, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "16",
+    "target": "16.1",
+    "indicator": "16.1.3",
+    "series": "VC_VOV_ROBB",
+    "seriesDescription": "Proportion of population subjected to robbery in the previous 12 months, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "16",
+    "target": "16.1",
+    "indicator": "16.1.4",
+    "series": "VC_SNS_WALN",
+    "seriesDescription": "Proportion of population that feel safe walking alone around the area they live (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "16",
+    "target": "16.2",
+    "indicator": "16.2.2",
+    "series": "VC_HTF_DETV",
+    "seriesDescription": "Detected victims of human trafficking, by age and sex (number)",
+    "Reporting Type": "G",
+    "Age": "ALLAGE",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "16",
+    "target": "16.2",
+    "indicator": "16.2.3",
+    "series": "VC_VAW_SXVLN",
+    "seriesDescription": "Proportion of population aged 18-29 years who experienced sexual violence by age\u00a018, by sex (% of population aged 18-29)",
+    "Reporting Type": "G",
+    "Age": "18-29",
+    "Sex": "FEMALE"
+  },
+  {
+    "goal": "16",
+    "target": "16.3",
+    "indicator": "16.3.2",
+    "series": "VC_PRS_UNSNT",
+    "seriesDescription": "Unsentenced detainees as a proportion of overall prison population (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "16",
+    "target": "16.5",
+    "indicator": "16.5.1",
+    "series": "IU_COR_BRIB",
+    "seriesDescription": "Prevalence rate of bribery, by sex (%)",
+    "Reporting Type": "G",
+    "Sex": "BOTHSEX"
+  },
+  {
+    "goal": "16",
+    "target": "16.5",
+    "indicator": "16.5.2",
+    "series": "IC_FRM_BRIB",
+    "seriesDescription": "Bribery incidence (% of firms experiencing at least one bribe payment request)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "16",
+    "target": "16.9",
+    "indicator": "16.9.1",
+    "series": "SG_REG_BRTH",
+    "seriesDescription": "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age)",
+    "Reporting Type": "G",
+    "Age": "<1Y"
+  },
+  {
+    "goal": "16",
+    "target": "16.a",
+    "indicator": "16.a.1",
+    "series": "SG_NHR_IMPLN",
+    "seriesDescription": "Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.1",
+    "indicator": "17.1.1",
+    "series": "GR_G14_GDP",
+    "seriesDescription": "Total government revenue (budgetary central government) as a proportion of GDP (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.1",
+    "indicator": "17.1.2",
+    "series": "GC_GOB_TAXD",
+    "seriesDescription": "Proportion of domestic budget funded by domestic taxes (% of GDP)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.10",
+    "indicator": "17.10.1",
+    "series": "TM_TAX_WMFN",
+    "seriesDescription": "Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)",
+    "Reporting Type": "G",
+    "Type of product": "TEX"
+  },
+  {
+    "goal": "17",
+    "target": "17.10",
+    "indicator": "17.10.1",
+    "series": "TM_TAX_WMPS",
+    "seriesDescription": "Worldwide weighted tariff-average, preferential status, by type of product (%)",
+    "Reporting Type": "G",
+    "Type of product": "ALP"
+  },
+  {
+    "goal": "17",
+    "target": "17.12",
+    "indicator": "17.12.1",
+    "series": "TM_TAX_DMFN",
+    "seriesDescription": "Average tariff applied by developed countries, most-favored nation status, by type of product (%)",
+    "Reporting Type": "G",
+    "Type of product": "ARM"
+  },
+  {
+    "goal": "17",
+    "target": "17.12",
+    "indicator": "17.12.1",
+    "series": "TM_TAX_DPRF",
+    "seriesDescription": "Average tariff applied by developed countries, preferential status, by type of product (%)",
+    "Reporting Type": "G",
+    "Type of product": "AGR"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "FB_BNK_CAPA_ZS",
+    "seriesDescription": "Bank capital to assets ratio (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "FM_LBL_BMNY_ZG",
+    "seriesDescription": "Annual broad money growth (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "FM_LBL_BMNY_IR_ZS",
+    "seriesDescription": "Broad money to total reserves ratio",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "GC_BAL_CASH_GD_ZS",
+    "seriesDescription": "Cash surplus/deficit as a proportion of GDP (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "PA_NUS_ATLS",
+    "seriesDescription": "DEC alternative conversion factor (in local currency unit per United States dollar)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "NE_EXP_GNFS_KD_ZG",
+    "seriesDescription": "Annual growth of exports of goods and services (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "DT_DOD_DECT_GN_ZS",
+    "seriesDescription": "External debt stocks as a proportion of GNI (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "BX_KLT_DINV_WD_GD_ZS",
+    "seriesDescription": "Foreign direct investment, net inflows, as a proportion of GDP (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "NY_GDP_MKTP_KD_ZG",
+    "seriesDescription": "Annual GDP growth (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "NE_CON_GOVT_KD_ZG",
+    "seriesDescription": "Annual growth of the general government final consumption expenditure (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "NE_GDI_TOTL_KD_ZG",
+    "seriesDescription": "Annual growth of the gross capital formation (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "NE_CON_PRVT_KD_ZG",
+    "seriesDescription": "Annual growth of households and NPISHs final consumption expenditure (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "NE_IMP_GNFS_KD_ZG",
+    "seriesDescription": "Annual growth of imports of goods and services (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "FP_CPI_TOTL_ZG",
+    "seriesDescription": "Annual inflation, consumer prices (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "TG_VAL_TOTL_GD_ZS",
+    "seriesDescription": "Merchandise trade as a proportion of GDP (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "BN_KLT_PTXL_CD",
+    "seriesDescription": "Portfolio investment, net (Balance of Payments, current United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "GC_TAX_TOTL_GD_ZS",
+    "seriesDescription": "Tax revenue as a proportion of GDP (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.13",
+    "indicator": "17.13.1",
+    "series": "FI_RES_TOTL_MO",
+    "seriesDescription": "Total reserves in months of imports (ratio)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.17",
+    "indicator": "17.17.1",
+    "series": "GF_COM_PPPI_KD",
+    "seriesDescription": "Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.18",
+    "indicator": "17.18.2",
+    "series": "SG_STT_FPOS",
+    "seriesDescription": "Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.18",
+    "indicator": "17.18.3",
+    "series": "SG_STT_NSDSFDGVT",
+    "seriesDescription": "Countries with national statistical plans with funding from Government (1 = YES; 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.18",
+    "indicator": "17.18.3",
+    "series": "SG_STT_NSDSFDDNR",
+    "seriesDescription": "Countries with national statistical plans with funding from donors (1 = YES; 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.18",
+    "indicator": "17.18.3",
+    "series": "SG_STT_NSDSFDOTHR",
+    "seriesDescription": "Countries with national statistical plans with funding from others (1 = YES; 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.18",
+    "indicator": "17.18.3",
+    "series": "SG_STT_NSDSIMPL",
+    "seriesDescription": "Countries with national statistical plans that are under implementation (1 = YES; 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.18",
+    "indicator": "17.18.3",
+    "series": "SG_STT_NSDSFND",
+    "seriesDescription": "Countries with national statistical plans that are fully funded (1 = YES; 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.19",
+    "indicator": "17.19.1",
+    "series": "SG_STT_CAPTY",
+    "seriesDescription": "Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.19",
+    "indicator": "17.19.2",
+    "series": "SG_REG_DETH75N",
+    "seriesDescription": "Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.3",
+    "indicator": "17.3.1",
+    "series": "GF_FRN_FDI",
+    "seriesDescription": "Foreign direct investment (FDI) inflows (millions of US dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.3",
+    "indicator": "17.3.2",
+    "series": "BX_TRF_PWKR",
+    "seriesDescription": "Volume of remittances (in United States dollars) as a proportion of total GDP (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.4",
+    "indicator": "17.4.1",
+    "series": "DT_TDS_DECT",
+    "seriesDescription": "Debt service as a proportion of exports of goods and services (%)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.6",
+    "indicator": "17.6.1",
+    "series": "IT_NET_BBND",
+    "seriesDescription": "Fixed Internet broadband subscriptions per 100\u00a0inhabitants, by speed (per 100 inhabitants)",
+    "Reporting Type": "G",
+    "Type of speed": "ANYS"
+  },
+  {
+    "goal": "17",
+    "target": "17.7",
+    "indicator": "17.7.1",
+    "series": "DC_ENVTECH_EXP",
+    "seriesDescription": "Amount of tracked exported Environmentally Sound Technologies (current United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.7",
+    "indicator": "17.7.1",
+    "series": "DC_ENVTECH_IMP",
+    "seriesDescription": "Amount of tracked imported Environmentally Sound Technologies (current United States dollars)",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.8",
+    "indicator": "17.8.1",
+    "series": "IT_USE_ii99",
+    "seriesDescription": "Internet users per 100 inhabitants",
+    "Reporting Type": "G"
+  },
+  {
+    "goal": "17",
+    "target": "17.9",
+    "indicator": "17.9.1",
+    "series": "DC_FTA_TOTAL",
+    "seriesDescription": "Total official development assistance (gross disbursement) for technical cooperation (millions of 2019 United States dollars)",
+    "Reporting Type": "G"
+  }
+]

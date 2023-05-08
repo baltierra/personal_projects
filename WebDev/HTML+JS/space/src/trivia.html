@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="trivia.css">
+        <title>Space Trivia</title>
+    </head>
+    <body>
+        <input class="trivia" type="radio" name="a-0" class="correct" id="a-0-c" /><input class="trivia" type="radio" name="a-0" id="a-0-i-0" /><input class="trivia" type="radio" name="a-0" id="a-0-i-1" /><input class="trivia" type="radio" name="a-0" id="a-0-i-2" />
+        <input class="trivia" type="radio" name="a-1" class="correct" id="a-1-c" /><input class="trivia" type="radio" name="a-1" id="a-1-i-0" /><input class="trivia" type="radio" name="a-1" id="a-1-i-1" /><input class="trivia" type="radio" name="a-1" id="a-1-i-2" />
+        <input class="trivia" type="radio" name="a-2" class="correct" id="a-2-c" /><input class="trivia" type="radio" name="a-2" id="a-2-i-0" /><input class="trivia" type="radio" name="a-2" id="a-2-i-1" /><input class="trivia" type="radio" name="a-2" id="a-2-i-2" />
+        <input class="trivia" type="radio" name="a-3" class="correct" id="a-3-c" /><input class="trivia" type="radio" name="a-3" id="a-3-i-0" /><input class="trivia" type="radio" name="a-3" id="a-3-i-1" /><input class="trivia" type="radio" name="a-3" id="a-3-i-2" />
+        <input class="trivia" type="radio" name="a-4" class="correct" id="a-4-c" /><input class="trivia" type="radio" name="a-4" id="a-4-i-0" /><input class="trivia" type="radio" name="a-4" id="a-4-i-1" /><input class="trivia" type="radio" name="a-4" id="a-4-i-2" />
+
+        <div id="results" class="box">
+            <div class="results"><span id="result"></span> correct answers</div>
+            <p><a href="#" onclick='loadHTML("template","trivia.html")'><center>Restart the game</center></a></p>
+        </div>
+
+        <div class="options box" id="q-4">
+            <div class="question">The first satellite to operate in geostationary orbit is:</div>
+            <label for="a-4-c">Syncom 2</label>
+            <label for="a-4-i-0">Sputnik 1</label>
+            <label for="a-4-i-1">Mir</label>
+            <label for="a-4-i-2">Skylab</label>
+            <a href="#results">Complete Test</a>
+        </div>
+
+        <div class="options box" id="q-3">
+            <div class="question">When did the Space Age begin??</div>
+            <label for="a-3-c">1957</label>
+            <label for="a-3-i-0">1969</label>
+            <label for="a-3-i-1">199</label>
+            <label for="a-3-i-2">1941</label>
+            <a href="#q-4">Confirm Answer</a>
+        </div>
+
+        <div class="options box" id="q-2">
+            <div class="question">What is the smallest planet in the solar system by mass?</div>
+            <label for="a-2-i-0">Jupiter</label>
+            <label for="a-2-i-1">Earth</label>
+            <label for="a-2-i-2">Mars</label>
+            <label for="a-2-c">Mercury</label>
+            <a href="#q-3">Confirm Answer</a>
+        </div>
+
+        <div class="options box" id="q-1">
+            <div class="question">When was Pluto removed from the list of planets?</div>
+            <label for="a-1-i-0">2008</label>
+            <label for="a-1-c">2006</label>
+            <label for="a-1-i-1">2003</label>
+            <label for="a-1-i-2">2000</label>
+            <a href="#q-2">Confirm Answer</a>
+        </div>
+
+        <div class="options box" id="q-0">
+            <div class="question">The atmosphere in Mars is mostly composed of:</div>
+            <label for="a-0-i-0">Helium</label>
+            <label for="a-0-i-1">Oxygen</label>
+            <label for="a-0-c">Carbon dioxide</label>
+            <label for="a-0-i-2">Nitrogen</label>
+            <a href="#q-1">Confirm Answer</a>
+        </div>
+
+        <div class="box" id="welcome">
+        <h2 class="trivia_intro">CSS SPACE TRIVIA</h2>
+        <p class="trivia_intro">Welcome to the Space Trivia! A small Q&A game in case you find yourself wandering across the space.</p>
+        <a href="#q-0">Start Game</a>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,48 @@
+.row { 
+    margin-top: 5em; 
+}
+
+img {
+  width: 100px;
+  box-shadow: 4px 4px 4px #999;
+  margin: 12px;
+  animation-name: dealCards;
+  animation-duration: 2s;
+}
+
+#player-cards {
+    width: 100px;
+    box-shadow: 4px 4px 4px #999;
+    margin: 12px;
+    position: relative;
+    animation-name: dealCards;
+    animation-duration: 2s;
+  }
+
+@keyframes dealCards {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+#game_header {
+    text-align: center;
+}
+
+#results {
+    text-align: center;
+}
+
+#dealer {
+    text-align: center;
+}
+
+#player {
+    text-align: center;
+}
+
+#new-game {
+    text-align: center;
+}

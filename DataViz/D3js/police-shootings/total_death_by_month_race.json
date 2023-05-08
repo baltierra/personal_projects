@@ -1,0 +1,110 @@
+{
+    "January":
+        {
+            "Other/Not Specified" : "6",
+            "Asian" : "4",
+            "Black" : "26",
+            "Hispanic" : "21",
+            "Native American" : "3",
+            "White" : "58"
+        },
+    "February":
+        {
+            "Other/Not Specified" : "9",
+            "Asian" : "1",
+            "Black" : "29",
+            "Hispanic" : "19",
+            "Native American" : "0",
+            "White" : "59"
+        },
+    "March": 
+        {
+            "Other/Not Specified" : "11",
+            "Asian" : "2",
+            "Black" : "42",
+            "Hispanic" : "18",
+            "Native American" : "3",
+            "White" : "74"
+        },
+    "April": 
+        {
+            "Other/Not Specified" : "7",
+            "Asian" : "2",
+            "Black" : "41",
+            "Hispanic" : "22",
+            "Native American" : "3",
+            "White" : "64"
+        },
+    "May": 
+        {
+            "Other/Not Specified" : "19",
+            "Asian" : "1",
+            "Black" : "31",
+            "Hispanic" : "8",
+            "Native American" : "0",
+            "White" : "67"
+        },
+    "June": 
+        {
+            "Other/Not Specified" : "6",
+            "Asian" : "0",
+            "Black" : "23",
+            "Hispanic" : "24",
+            "Native American" : "1",
+            "White" : "49"
+        },
+    "July": 
+        {
+            "Other/Not Specified" : "10",
+            "Asian" : "1",
+            "Black" : "31",
+            "Hispanic" : "25",
+            "Native American" : "2",
+            "White" : "83"
+        },
+    "August": 
+        {
+            "Other/Not Specified" : "15",
+            "Asian" : "0",
+            "Black" : "33",
+            "Hispanic" : "23",
+            "Native American" : "0",
+            "White" : "65"
+        },
+    "September": 
+        {
+            "Other/Not Specified" : "13",
+            "Asian" : "2",
+            "Black" : "29",
+            "Hispanic" : "20",
+            "Native American" : "7",
+            "White" : "59"
+        },
+    "October": 
+        {
+            "Other/Not Specified" : "14",
+            "Asian" : "1",
+            "Black" : "35",
+            "Hispanic" : "23",
+            "Native American" : "0",
+            "White" : "54"
+        },
+    "November": 
+        {
+            "Other/Not Specified" : "1",
+            "Asian" : "1",
+            "Black" : "27",
+            "Hispanic" : "20",
+            "Native American" : "0",
+            "White" : "62"
+        },
+    "December": 
+        {
+            "Other/Not Specified" : "13",
+            "Asian" : "4",
+            "Black" : "31",
+            "Hispanic" : "23",
+            "Native American" : "0",
+            "White" : "57"
+        }
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,600" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="homework.css">
+    <title>Final Project Sample</title>
+</head>
+<body>
+    <div class="main-container">
+        <div class="flex-column d-flex justify-content-center">
+            <div class="header">
+                <ul id="list">
+                    <hr>
+                    <li><h3 style="font-weight: bold;">Three Sample Charts with D3.js for the our Final Project</h3></li>
+                    <li><h1>Environmental Data from OECD Countries</h1></li>
+                    <hr>
+                    <li><h2>Fabián A. Araneda Baltierra |
+                            Data Visualization for Policy Analysis |
+                            University of Chicago |
+                            Autumn, 2022</h2></li>
+                    <li><h3>Using 30-year-span data related to greenhouse gases emission from OECD countries,
+                        this project attempts to visually inspect the evolution on each country emissions in
+                        order to determine the possible impact of environmental public policy on this numbers.
+                        Below, each button will offer a different type of chart with a description of its use
+                        and purpose. All the data was gathered from 
+                        <a href="https://stats.oecd.org/Index.aspx?DataSetCode=air_ghg" target="_blank">
+                        OECD stats website</a> and then cleaned using
+                        Python's Pandas. Note: Israel was left out because of insufficient data.</h3></li><hr>
+
+                </ul>
+            </div>
+            <div class="buttons d-flex">
+                <div class="one-button">
+                    <button type="button" class="btn btn-primary btn-large" onclick = "showChart1()">Line</button>
+                </div>
+                <div class="one-button">
+                    <button type="button" class="btn btn-primary btn-large" onclick = "showChart2()">Stacked Bar</button>
+                </div>
+                <div class="one-button">
+                    <button type="button" class="btn btn-primary btn-large" onclick = "showChart3()">Stacked Area</button>
+                </div>
+            </div>
+        </div>
+        <div class="container  justify-content-center">
+            <div id="texts" style="display: none;">
+                <h1 id="title_chart"></h1>
+                <h3 id="description_chart"></h3>
+                <br>
+            </div>
+            <div id="chart">
+
+            </div>  
+        </div>
+    </div>
+</body>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="js/chart_1.js"></script>
+<script src="js/chart_2.js"></script>
+<script src="js/chart_3.js"></script>
+</html>

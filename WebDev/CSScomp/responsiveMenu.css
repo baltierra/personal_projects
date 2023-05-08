@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.collapsed {
+    display: none;
+}
+
+nav {
+    background-color: #4879a1;
+    color: white;
+    width: 100%;
+}
+
+nav .mobile {
+    display: none;  
+}
+
+nav .mobile .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 15px;
+}
+
+nav .mobile .header .more button {
+    border: none;
+    background-color: #4879a1;
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+}
+
+nav .logo {
+    min-width: 200px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 15px 20px;
+}
+
+nav a:hover {
+    color: whitesmoke;
+    background-color: grey;
+}
+
+nav .desktop {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 15px;
+}
+
+nav .desktop .main,
+nav .desktop .secondary_extended {
+    display: flex;
+}
+
+nav .desktop .secondary_contracted {
+    display: none;
+}
+
+@media screen and (max-width: 776px) {
+    
+    nav .logo {
+        min-width: 100px;
+    }
+
+    nav .desktop .secondary_extended {
+        display: none;
+    }
+
+    nav .desktop .secondary_contracted {
+        display: block;
+    }
+
+    nav .desktop .secondary_contracted .submenu {
+        display: none;
+        background-color: #4879a1;
+        position: absolute;
+        width: 1500;
+        right: 0;
+    }
+
+    nav .desktop .secondary_contracted:hover .submenu {
+        display: block;
+    }
+}
+
+@media screen and (max-width:500px){
+    
+    nav .desktop {
+        display: none;
+    }
+
+    nav .mobile {
+        display: block;
+    }
+}

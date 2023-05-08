@@ -1,0 +1,121 @@
+* {
+    font-family: 'Work Sans',Arial, Helvetica, sans-serif;
+  }
+
+h1 {
+    font-size: 1.8em;
+    font-style: bold;
+    font-weight: bolder;
+  }
+
+h2 {
+    font-size: 0.85em;
+    font-weight: bold;
+  }
+
+h3 {
+    font-size: 0.90em;
+    font-style: bold;
+  }
+
+.header {
+  max-width: 800px;
+  margin: auto;
+  background-color: white;
+  /* position: relative; */
+}
+
+.footer {
+  max-width: 800px;
+  margin: auto;
+  background-color: white;
+  /* position: relative; */
+}
+  .buttons {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    position: relative;
+  }
+
+  .main-container {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: white;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgb(244, 244, 249);
+  }
+
+#list {
+    list-style: none;
+    margin: 0;
+    display: inline-block;
+}
+  
+.one-button {
+    padding: 5px;
+    margin: 5px;
+}
+
+  
+line {
+    stroke: rgb(47, 47, 47);
+}
+
+svg text {
+    font-size: 10px;
+}
+  
+.x-axis text {
+    transform: translateY(5px);
+}
+  
+.y-axis text {
+    transform: translateX(-5px);
+}
+
+foreignObject p {
+    font-size: 12px;
+}
+
+
+#chart {
+  text-align: center;
+  width: 95%; 
+}
+
+text {
+  font-size: 10px;
+}
+
+
+.y-axis path.domain { 
+  display: none; 
+}
+
+.y-axis line {
+  stroke: rgb(212, 210, 210);
+  stroke-dasharray: 2px;
+}
+
+.country { 
+  cursor: default; 
+}
+
+.country path {
+  stroke-width: 1.5;
+  opacity: 0.85;
+}
+
+.highlight path {
+  stroke: steelblue;
+  opacity: 1;
+}
+
+.highlight text { 
+  fill: steelblue; 
+}
+

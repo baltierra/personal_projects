@@ -1,0 +1,39 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+asgiref=3.5.2=py39hca03da5_0
+brotlipy=0.7.0=py39h1a28f6b_1002
+ca-certificates=2022.07.19=hca03da5_0
+certifi=2022.9.24=py39hca03da5_0
+cffi=1.15.1=py39h22df2f2_0
+charset-normalizer=2.0.4=pyhd3eb1b0_0
+cryptography=38.0.1=py39h834c97f_0
+django=4.1=py39hca03da5_0
+django-cors-headers=3.13.0=pyhd8ed1ab_0
+djangorestframework=3.14.0=pyhd8ed1ab_0
+idna=3.4=py39hca03da5_0
+krb5=1.19.3=hf9b2bbe_0
+libcxx=14.0.6=h848a8c0_0
+libedit=3.1.20191231=hc8eb9b7_2
+libffi=3.4.2=hc377ac9_4
+libpq=12.9=h65cfe13_3
+ncurses=6.3=h1a28f6b_3
+openssl=1.1.1q=h1a28f6b_0
+pip=22.2.2=py39hca03da5_0
+psycopg2=2.8.6=py39hf27765b_2
+pycparser=2.21=pyhd3eb1b0_0
+pyopenssl=22.0.0=pyhd3eb1b0_0
+pysocks=1.7.1=py39hca03da5_0
+python=3.9.13=hbdb9e5c_2
+pytz=2022.5=pyhd8ed1ab_0
+readline=8.1.2=h1a28f6b_1
+requests=2.28.1=py39hca03da5_0
+setuptools=63.4.1=py39hca03da5_0
+sqlite=3.39.3=h1058600_0
+sqlparse=0.4.1=py_0
+tk=8.6.12=hb8d0fd4_0
+tzdata=2022e=h04d1e81_0
+urllib3=1.26.12=py39hca03da5_0
+wheel=0.37.1=pyhd3eb1b0_0
+xz=5.2.6=h1a28f6b_0
+zlib=1.2.13=h5a0b063_0

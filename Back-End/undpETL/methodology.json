@@ -1,0 +1,648 @@
+[
+  {
+    "indicator": "1.1.1",
+    "series": "SI_POV_DAY1",
+    "targetValue": 3,
+    "currentLevelThresholds": [3,6,15,25],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "1.2.1",
+    "series": "SI_POV_NAHC",
+    "trendMethodology": "Halfing",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "1.3.1",
+    "series": "SI_COV_SOCAST",
+    "targetValue": 80,
+    "currentLevelThresholds": [80,60,40,20],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "CAGRLimit": [0.01, 0.005, -0.01], 
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "1.3.1",
+    "series": "SI_COV_SOCINS",
+    "targetValue": 80,
+    "currentLevelThresholds": [80,60,40,20],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "CAGRLimit": [0.01, 0.005, -0.01], 
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "2.1.1",
+    "series": "SN_ITK_DEFC",
+    "targetValue": 2.5,
+    "currentLevelThresholds": [5,10,25,30],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "2.1.2",
+    "series": "AG_PRD_FIESMS",
+    "targetValue": 5,
+    "currentLevelThresholds": [5,10,25,30],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015,
+      "ARM": 2017,
+      "WBG": 2017,
+      "KAZ": 2017,
+      "KGZ": 2017,
+      "WSM": 2017,
+      "TZA": 2017,
+      "VNM": 2017
+    }
+  },
+  {
+    "indicator": "2.2.1",
+    "series": "SH_STA_STNT",
+    "targetValue": 3,
+    "currentLevelThresholds": [3,10,20,30],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "decrease",
+    "trendMethodology": "AARRR",
+    "baselineYear": {
+      "all": 2012
+    }
+  },
+  {
+    "indicator": "2.3.1",
+    "series": "PD_AGR_SSFP",
+    "trendMethodology": "Doubling",
+    "baselineYear": {
+      "all": 2010
+    }
+  },
+  {
+    "indicator": "2.3.1",
+    "series": "PD_AGR_LSFP",
+    "trendMethodology": "Doubling",
+    "baselineYear": {
+      "all": 2010
+    }
+  },
+  {
+    "indicator": "2.5.1",
+    "series": "ER_GRF_PLNTSTOR",
+    "normativeDirection": "not decrease",
+    "CAGRLimit": [0.01, -0.005, -0.01], 
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2016
+    }
+  },
+  {
+    "indicator": "2.5.2",
+    "series": "ER_RSK_LBREDS",
+    "normativeDirection": "not increase",
+    "CAGRLimit": [0.01, -0.005, -0.01],
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2015,
+      "FRO": 2016,
+      "LTU": 2016,
+      "PHL": 2016,
+      "BRN": 2016,
+      "KHM": 2016,
+      "VNM": 2016,
+      "IDN": 2016,
+      "TLS": 2016,
+      "KOR": 2016,
+      "SGP": 2016,
+      "MNG": 2016,
+      "CHN": 2016,
+      "TWN": 2016,
+      "MYS": 2016,
+      "MMR": 2016,
+      "JPN": 2016,
+      "LAO": 2016,
+      "THA": 2016,
+      "HKG": 2016,
+      "PRK": 2016,
+      "MAC": 2016,
+      "BRA": 2017,
+      "COL": 2018,
+      "MAR": 2018,
+      "PAN": 2018,
+      "PRY": 2018,
+      "YEM": 2019
+    }
+  },
+  {
+    "indicator": "2.a.1",
+    "series": "AG_PRD_ORTIND",
+    "normativeDirection": "increase",
+    "CAGRLimit": [0.01, 0.005, -0.005],
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2015,
+      "BEN": 2016,
+      "CMR": 2016,
+      "RWA": 2016,
+      "SAU": 2016,
+      "GMB": 2017,
+      "PNG": 2017,
+      "LCA": 2017,
+      "SOM": 2017
+    }
+  },
+  {
+    "indicator": "2.a.1",
+    "series": "AG_PRD_AGVAS",
+    "normativeDirection": "increase",
+    "CAGRLimit": [0.01, 0.005, -0.005],
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "2.a.1",
+    "series": "AG_XPD_AGSGB",
+    "normativeDirection": "increase",
+    "CAGRLimit": [0.01, 0.005, -0.005], 
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "3.1.2",
+    "series": "SH_STA_BRTC",
+    "currentLevelThresholds": [95,75,50,25],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "targetValue": 95,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "3.2.1",
+    "series": "SH_DYN_MORT",
+    "targetValue": 25,
+    "currentLevelThresholds": [25,35,45,55],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR+AARRR",
+    "baselineYear": {
+      "all": 2010
+    }
+  },
+  {
+    "indicator": "3.3.3",
+    "series": "SH_STA_MALR",
+    "targetValue": 0.1,
+    "currentLevelThresholds": [0.1,10,50,100],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "3.b.1",
+    "series": "SH_ACS_DTP3",
+    "currentLevelThresholds": [95,90,80,70],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "targetValue": 95,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "4.1.2",
+    "series": "SE_TOT_CPLR",
+    "currentLevelThresholds": [97,94,85,75],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "targetValue": 97,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "5.3.1",
+    "series": "SP_DYN_MRBF18",
+    "currentLevelThresholds": [1,15,30,45],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "targetValue": 1,
+    "normativeDirection": "decrease",
+    "trendMethodology": "AARRR",
+    "baselineYear": {
+      "all": 2010,
+      "IDN": 2015
+    }
+  },
+  {
+    "indicator": "5.5.1",
+    "series": "SG_GEN_PARL",
+    "targetValue": 50,
+    "currentLevelThresholds": [40,30,20,10],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "5.5.1",
+    "series": "SG_GEN_LOCGELS",
+    "targetValue": 50,
+    "currentLevelThresholds": [40,30,20,10],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "5.5.2",
+    "series": "IC_GEN_MGTL",
+    "targetValue": 50,
+    "currentLevelThresholds": [40,30,20,10],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "5.5.2",
+    "series": "IC_GEN_MGTN",
+    "targetValue": 50,
+    "currentLevelThresholds": [40,30,20,10],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "6.1.1",
+    "series": "SH_H2O_SAFE",
+    "targetValue": 99,
+    "currentLevelThresholds": [99,75,50,25],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "6.2.1",
+    "series": "SH_SAN_SAFE",
+    "targetValue": 99,
+    "currentLevelThresholds": [99,75,50,25],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "6.4.1",
+    "series": "ER_H2O_WUEYST",
+    "normativeDirection": "increase",
+    "CAGRLimit": [0.01, 0.005, -0.095],
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2015,
+      "STP": 2016
+    }
+  },
+  {
+    "indicator": "7.1.1",
+    "series": "EG_ACS_ELEC",
+    "targetValue": 99,
+    "currentLevelThresholds": [99,96,85,80],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "7.3.1",
+    "series": "EG_EGY_PRIM",
+    "CAGRRequire": -0.026,
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2010
+    }
+  },
+  {
+    "indicator": "8.5.2",
+    "series": "SL_TLF_UEM",
+    "targetValue": 3,
+    "currentLevelThresholds": [3,6,10,15],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "9.2.1",
+    "series": "NV_IND_MANF",
+    "targetValue": 20,
+    "currentLevelThresholds": [20,15,10,5],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "not decrease",
+    "CAGRLimit": [0.01, 0.005, -0.01],
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "9.c.1",
+    "series": "IT_MOB_2GNTWK",
+    "currentLevelThresholds": [98,90,85,80],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "targetValue": 98,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "9.c.1",
+    "series": "IT_MOB_3GNTWK",
+    "targetValue": 98,
+    "currentLevelThresholds": [98,90,85,80],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "10.4.2",
+    "series": "SI_DST_FISP",
+    "targetValue": 0.25,
+    "currentLevelThresholds": [0.25,0.3,0.4,0.45],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "trendMethodology": "SpecialGINI",
+    "baselineYear": {
+      "all": 2010
+    }
+  },
+  {
+    "indicator": "11.1.1",
+    "series": "EN_LND_SLUM",
+    "currentLevelThresholds": [0.1,5,20,40],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "targetValue": 0.1,
+    "normativeDirection": "decrease",
+    "CAGRLimit": [0.005,-0.005,-0.01],
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2014
+    }
+  },
+  {
+    "indicator": "12.2.2",
+    "series": "EN_MAT_DOMCMPG",
+    "targetValue": 0.5,
+    "currentLevelThresholds": [0.5,1,1.5,2],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "12.c.1",
+    "series": "ER_FFS_CMPT_GDP",
+    "currentLevelThresholds": [0.1,0.5,1,1.5],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "targetValue": 0.1,
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "14.4.1",
+    "series": "ER_H2O_FWTL",
+    "targetValue": 80,
+    "currentLevelThresholds": [80,75,70,65],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "14.5.1",
+    "series": "ER_MRN_MPA",
+    "targetValue": 83,
+    "currentLevelThresholds": [83,67,33,17],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "14.6.1",
+    "series": "ER_REG_UNFCIM",
+    "targetValue": 5,
+    "normativeDirection": "increase",
+    "trendMethodology": "Likert",
+    "baselineYear": {
+      "all": 2018
+    }
+  },
+  {
+    "indicator": "14.7.1",
+    "series": "EN_SCP_FSHGDP",
+    "normativeDirection": "increase",
+    "CAGRLimit": [0.01, 0.005, -0.005],
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "14.b.1",
+    "series": "ER_REG_SSFRAR",
+    "targetValue": 5,
+    "normativeDirection": "increase",
+    "trendMethodology": "Likert",
+    "baselineYear": {
+      "all": 2018
+    }
+  },
+  {
+    "indicator": "15.1.1",
+    "series": "AG_LND_FRST",
+    "normativeDirection": "not decrease",
+    "CAGRLimit": [0.001,-0.0005, -0.001],
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "15.1.2",
+    "series": "ER_PTD_FRHWTR",
+    "targetValue": 83,
+    "currentLevelThresholds": [83,67,33,17],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "15.4.2",
+    "series": "ER_MTN_GRNCVI",
+    "normativeDirection": "not decrease",
+    "CAGRLimit": [0.001,-0.0005, -0.001],
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "15.5.1",
+    "series": "ER_RSK_LST",
+    "targetValue": 0.8,
+    "currentLevelThresholds": [0.8,0.7],
+    "currentLevelThresholdsName": ["Extinction risk below global average", "Extinction risk at global average", "Extinction risk above global average"],
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "15.6.1",
+    "series": "ER_CBD_SMTA",
+    "normativeDirection": "not decrease",
+    "CAGRLimit": [0.01,-0.005, -0.01],
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2016
+    }
+  },
+  {
+    "indicator": "15.6.1",
+    "series": "ER_CBD_ORSPGRFA",
+    "value": 1,
+    "trendMethodology": "Binary",
+    "baselineYear": {
+      "all": 2016
+    }
+  },
+  {
+    "indicator": "15.6.1",
+    "series": "ER_CBD_PTYPGRFA",
+    "value": 1,
+    "trendMethodology": "Binary",
+    "baselineYear": {
+      "all": 2016
+    }
+  },
+  {
+    "indicator": "15.6.1",
+    "series": "ER_IAS_LEGIS",
+    "value": 1,
+    "trendMethodology": "Binary",
+    "baselineYear": {
+      "all": 2016
+    }
+  },
+  {
+    "indicator": "16.1.1",
+    "series": "VC_IHR_PSRC",
+    "targetValue": 1,
+    "currentLevelThresholds": [1,2.5,5,10],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "16.3.2",
+    "series": "VC_PRS_UNSNT",
+    "targetValue": 15,
+    "currentLevelThresholds": [15,20,30,40],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR",
+    "baselineYear": {
+      "all": 2015
+    }
+  },
+  {
+    "indicator": "16.a.1",
+    "series": "SG_NHR_IMPLN",
+    "value": 1,
+    "trendMethodology": "Binary",
+    "baselineYear": {
+      "all": 2016
+    }
+  },
+  {
+    "indicator": "17.8.1",
+    "series": "IT_USE_ii99",
+    "targetValue": 90,
+    "currentLevelThresholds": [90,60,40,30],
+    "currentLevelThresholdsName": ["Target met or almost met", "Close to Target", "Moderate distance to target", "Far from target", "Very far from target"],
+    "normativeDirection": "increase",
+    "CAGRLimit": [0.01, 0.005, -0.01],
+    "trendMethodology": "CAGRA",
+    "baselineYear": {
+      "all": 2015
+    }
+  }
+]

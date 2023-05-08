@@ -1,0 +1,8 @@
+img {
+  box-shadow: 8px 8px 8px #555;
+}
+
+.like_button {
+  color: red;
+  cursor: pointer;
+}

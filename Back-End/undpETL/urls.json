@@ -1,0 +1,4 @@
+{
+    "countryTaxonomy": "https://raw.githubusercontent.com/UNDP-Data/country-taxonomy-from-azure/main/country_territory_groups.json",
+    "undpStats": "https://unstats.un.org/sdgapi/v1/sdg/Goal/Data?goal=1&goal=2&goal=3&goal=4&goal=5&goal=6&goal=7&goal=8&goal=9&goal=10&goal=11&goal=12&goal=13&goal=14&goal=15&goal=16&goal=17&timePeriod=2010&timePeriod=2011&timePeriod=2012&timePeriod=2013&timePeriod=2014&timePeriod=2015&timePeriod=2016&timePeriod=2017&timePeriod=2018&timePeriod=2019&timePeriod=2020&timePeriod=2021&timePeriod=2022&areaCode="
+}

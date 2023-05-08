@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+
+.collapsed {
+    display: none;
+}
+
+nav {
+    background-color: #000;
+    color: white;
+    width: 100%;
+}
+
+nav .mobile {
+    display: none;  
+}
+
+nav .mobile .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 15px;
+}
+
+nav .mobile .header .more button {
+    border: none;
+    background-color: #000;
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+}
+
+nav .logo {
+    min-width: 200px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 15px 20px;
+}
+
+nav a:hover {
+    color: whitesmoke;
+    background-color: rgb(118, 117, 117);
+}
+
+nav .desktop {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 15px;
+}
+
+nav .desktop .main_extended {
+    display: flex;
+}
+
+nav .desktop .main_contracted {
+    display: none;
+}
+
+@media screen and (max-width: 776px) {
+    
+    nav .logo {
+        min-width: 100px;
+    }
+
+    nav .desktop .main_extended {
+        display: none;
+    }
+
+    nav .desktop .main_contracted {
+        display: block;
+    }
+
+    nav .desktop .main_contracted .submenu {
+        display: none;
+        background-color: #000;
+        position: absolute;
+        width: 1500;
+        right: 0;
+    }
+
+    nav .desktop .main_contracted:hover .submenu {
+        display: block;
+    }
+}
+
+@media screen and (max-width:500px){
+    
+    nav .desktop {
+        display: none;
+    }
+
+    nav .mobile {
+        display: block;
+    }
+}
+
+.main{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    height: 1px;
+    width: 1px;
+    background-color: #fff;
+    border-radius: 50%;
+    /* Random points to draw stars on the background */
+    box-shadow: -26vw -12vh 3px 2px #fff, 34vw 47vh 1px 1px #fff, -5vw 21vh 1px 0px #fff,
+                -4vw 22vh 2px 1px #fff, -22vw 47vh 1px 1px #fff, 47vw -5vh 1px 3px #fff,
+                44vw 3vh 1px 2px #fff, 23vw 8vh 2px 0px #fff, 18vw 29vh 3px 0px #fff,
+                -49vw 5vh 3px 1px #fff, 8vw -38vh 2px 0px #fff, 21vw -43vh 1px 1px #fff,
+                -46vw 17vh 2px 0px #fff,-27vw -39vh 3px 1px #fff,32vw -44vh 1px 2px #fff,
+                -44vw 0vh 0px 3px #fff,48vw -38vh 0px 2px #fff,-18vw 42vh 2px 1px #fff,
+                -4vw -36vh 3px 3px #fff,-39vw 29vh 1px 1px #fff,-15vw 22vh 3px 2px #fff,
+                37vw 40vh 1px 1px #fff,-9vw 34vh 0px 1px #fff,-35vw -31vh 0px 1px #fff,
+                48vw 49vh 2px 3px #fff,-22vw 7vh 2px 3px #fff,6vw 18vh 3px 3px #fff,
+                17vw 24vh 3px 3px #fff,8vw -42vh 0px 2px #fff,35vw 34vh 2px 1px #fff,
+                -4vw 5vh 0px 0px #fff,9vw -43vh 3px 0px #fff,-33vw 10vh 1px 3px #fff,
+                1vw -23vh 2px 0px #fff,6vw -41vh 1px 1px #fff,-22vw -34vh 1px 1px #fff,
+                33vw 4vh 3px 1px #fff,35vw -12vh 1px 1px #fff,9vw 3vh 0px 1px #fff,
+                26vw -46vh 3px 2px #fff,2vw 9vh 1px 0px #fff,28vw -39vh 1px 3px #fff,
+                3vw -25vh 0px 2px #fff,-48vw -5vh 3px 3px #fff,25vw -20vh 1px 0px #fff,
+                -34vw 0vh 3px 3px #fff,35vw 14vh 0px 0px #fff,-19vw -30vh 1px 1px #fff,
+                2vw 45vh 1px 1px #fff,50vw 31vh 3px 0px #fff,36vw -3vh 3px 0px #fff,
+                15vw 47vh 1px 1px #fff,-13vw 3vh 1px 1px #fff,-11vw -33vh 1px 2px #fff,
+                13vw 48vh 3px 2px #fff,-13vw 41vh 1px 1px #fff,23vw -36vh 1px 1px #fff,
+                5vw 36vh 3px 0px #fff,7vw -40vh 3px 0px #fff,-23vw 49vh 2px 0px #fff,
+                13vw -40vh 3px 1px #fff,-49vw 3vh 0px 1px #fff,-10vw -2vh 0px 3px #fff,
+                46vw 33vh 0px 3px #fff,-30vw 8vh 1px 3px #fff,-8vw 34vh 1px 0px #fff,
+                -17vw 40vh 2px 2px #fff,-6vw -33vh 3px 1px #fff,24vw -14vh 2px 2px #fff,
+                -17vw -11vh 0px 3px #fff,11vw 4vh 0px 1px #fff,6vw 23vh 0px 2px #fff,
+                23vw 46vh 0px 0px #fff,2vw -39vh 2px 1px #fff,-23vw 30vh 2px 3px #fff,
+                24vw 12vh 2px 0px #fff,5vw 24vh 1px 0px #fff,-39vw -11vh 0px 0px #fff,
+                -11vw 33vh 1px 3px #fff,14vw -31vh 1px 3px #fff,-10vw -40vh 2px 0px #fff,
+                -19vw -9vh 2px 1px #fff,38vw 14vh 3px 1px #fff,35vw -37vh 2px 1px #fff,
+                -15vw 28vh 3px 0px #fff,-46vw -25vh 2px 0px #fff,-20vw -29vh 2px 3px #fff,
+                -7vw 19vh 1px 1px #fff,7vw -23vh 0px 3px #fff,-9vw 39vh 1px 1px #fff,
+                47vw 23vh 2px 3px #fff,21vw -41vh 0px 3px #fff,48vw -45vh 3px 1px #fff,
+                -23vw -48vh 3px 1px #fff,-41vw -31vh 3px 3px #fff,-47vw -5vh 1px 2px #fff,
+                -23vw 29vh 2px 2px #fff,0vw 6vh 0px 0px #fff,35vw 15vh 3px 1px #fff,
+                -16vw -38vh 3px 0px #fff;
+    animation: zoom 10s alternate infinite;
+}
+
+/* ANIMATION FOR THE STARS */
+@keyframes zoom {
+    0%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(1.5);
+    }
+}
+
+/* PROPERTIES FOR GRADIENT TEXT IN THE HOME PAGE */
+.title {
+    height: 15vh;
+    width: 60vw;
+    margin: 0 auto;
+    padding-top:5vh;
+    padding-left: 5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.template {
+    padding-top: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+h1 {
+    display: inline-flex;
+    align-self: center;
+    position: relative;
+    font-size: 10vmin;
+    line-height: 10vmin;
+    color: #fff;
+}
+
+h2 {
+    color: #fff;
+}
+
+.gradient-text {
+    color: transparent;
+    background: conic-gradient(
+      #D9D7F1 12%, 
+      #BAABDA 12%, #BAABDA 33%, 
+      #E7FBBE 33%, #E7FBBE 55%, 
+      #FFCBCB 55%, #FFCBCB 70%, 
+      #B5DEFF 70%, #B5DEFF 87%, 
+      #F7D1BA 87%);
+    background-size: 50%;
+    background-clip: text;  
+    -webkit-background-clip: text;
+  
+    animation: expand-rev 0.5s ease forwards;
+  
+    cursor: pointer;
+  }
+  
+  .gradient-text:hover {
+    animation: expand 0.5s ease forwards;
+  }
+  
+  @keyframes expand {
+    0% {
+      background-size: 50%;
+      background-position: 0 0;
+    }
+    20% {
+      background-size: 55%;
+      background-position: 0 1em;
+    }
+    100% {
+      background-size: 325%;
+      background-position: -10em -4em;
+    }
+  }
+  
+  @keyframes expand-rev {
+    0% {
+      background-size: 325%;
+      background-position: -10em -4em;
+    }
+    20% {
+      background-size: 55%;
+      background-position: 0 1em;
+    }
+    100% {
+      background-size: 50%;
+      background-position: 0 0;
+    }
+  }
+
+#map {
+    display: flex;
+    position: relative;
+    height: 300px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+  }
+
+  .search {
+    margin: auto;
+    text-align: center;
+  }
+
+#dateSearch {
+    background-color: #fff;
+    top: 15vh;
+}
+
+p {
+    color: rgb(237, 245, 16);
+    text-align: justify;
+    margin-left: 10%;
+    max-width: 80%;
+    display: flex;
+    align-self: center;
+}

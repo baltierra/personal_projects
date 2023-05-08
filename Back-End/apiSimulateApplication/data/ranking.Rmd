@@ -1,0 +1,39 @@
+---
+title: "RANKING OLS"
+author: "Fabián Araneda"
+date: "2022-11-07"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, include = FALSE}
+rm(list = ls())
+
+# Load packages
+library('rmutil')
+library('tidyverse')
+library('dplyr')
+library('ggplot2')
+library('lmtest')
+library('sandwich')
+# Set a seed for random calculations
+set.seed(3132022)
+```
+
+```{r}
+# Load data
+df <- read.csv("pdt_2022_data_refined.csv")
+
+#Model 1
+model_1 <- lm(PTJE_RANKING ~ PTJE_NEM + CLEC_ACTUAL + MATE_ACTUAL + DEPENDENCIA, data = df)
+summary(model_1)
+
+#Model 2
+model_2 <- lm(PTJE_RANKING ~ PTJE_NEM + CLEC_ACTUAL + MATE_ACTUAL + DEPENDENCIA + CODIGO_ENS, data = df)
+summary(model_2)
+```
+
+

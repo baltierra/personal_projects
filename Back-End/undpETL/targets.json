@@ -1,0 +1,359 @@
+[
+  {
+    "indicator": "1.1.1",
+    "series": "SI_POV_DAY1",
+    "targetValue": 3,
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "1.3.1",
+    "series": "SI_COV_SOCAST",
+    "targetValue": 80,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "1.3.1",
+    "series": "SI_COV_SOCINS",
+    "targetValue": 80,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "2.1.1",
+    "series": "SN_ITK_DEFC",
+    "targetValue": 2.5,
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "2.1.2",
+    "series": "AG_PRD_FIESMS",
+    "targetValue": 5,
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "2.2.1",
+    "series": "SH_STA_STNT",
+    "targetValue": 3,
+    "normativeDirection": "decrease",
+    "trendMethodology": "AARRR"
+  },
+  {
+    "indicator": "2.3.1",
+    "series": "PD_AGR_SSFP",
+    "trendMethodology": "Doubling"
+  },
+  {
+    "indicator": "2.3.1",
+    "series": "PD_AGR_LSFP",
+    "trendMethodology": "Doubling"
+  },
+  {
+    "indicator": "2.5.1",
+    "series": "ER_GRF_PLNTSTOR",
+    "normativeDirection": "not decrease",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "2.5.2",
+    "series": "ER_RSK_LBREDS",
+    "normativeDirection": "not increase",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "2.a.1",
+    "series": "AG_PRD_ORTIND",
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "2.a.1",
+    "series": "AG_PRD_AGVAS",
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "2.a.1",
+    "series": "AG_XPD_AGSGB",
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "3.1.2",
+    "series": "SH_STA_BRTC",
+    "targetValue": 95,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "3.2.1",
+    "series": "SH_DYN_MORT",
+    "targetValue": 25,
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "3.3.3",
+    "series": "SH_STA_MALR",
+    "targetValue": 0.1,
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "3.b.1",
+    "series": "SH_ACS_DTP3",
+    "targetValue": 95,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "4.1.2",
+    "series": "SE_TOT_CPLR",
+    "targetValue": 97,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "5.3.1",
+    "series": "SP_DYN_MRBF18",
+    "targetValue": 1,
+    "normativeDirection": "decrease",
+    "trendMethodology": "AARRR"
+  },
+  {
+    "indicator": "5.3.2",
+    "series": "SP_DYN_MRBF18",
+    "targetValue": 1,
+    "normativeDirection": "decrease",
+    "trendMethodology": "AARRR"
+  },
+  {
+    "indicator": "5.5.1",
+    "series": "SG_GEN_PARL",
+    "targetValue": 50,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "5.5.1",
+    "series": "SG_GEN_LOCGELS",
+    "targetValue": 50,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "5.5.2",
+    "series": "IC_GEN_MGTL",
+    "targetValue": 50,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "5.5.2",
+    "series": "IC_GEN_MGTN",
+    "targetValue": 50,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "6.1.1",
+    "series": "SH_H2O_SAFE",
+    "targetValue": 99,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "6.2.1",
+    "series": "SH_SAN_SAFE",
+    "targetValue": 99,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "6.4.1",
+    "series": "ER_H2O_WUEYST",
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "7.1.1",
+    "series": "EG_ACS_ELEC",
+    "targetValue": 99,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "7.3.1",
+    "series": "EG_EGY_PRIM",
+    "CAGRRequire": -2.6,
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "8.5.2",
+    "series": "SL_TLF_UEM",
+    "targetValue": 3,
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "9.2.1",
+    "series": "NV_IND_MANFPC",
+    "targetValue": 20,
+    "normativeDirection": "not decrease",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "9.2.1",
+    "series": "NV_IND_MANF",
+    "targetValue": 20,
+    "normativeDirection": "not decrease",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "9.c.1",
+    "series": "IT_MOB_2GNTWK",
+    "targetValue": 98,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "9.c.1",
+    "series": "IT_MOB_3GNTWK",
+    "targetValue": 98,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "10.4.2",
+    "series": "SI_DST_FISP",
+    "trendMethodology": "SpecialGINI"
+  },
+  {
+    "indicator": "11.1.1",
+    "series": "EN_LND_SLUM",
+    "targetValue": 0.1,
+    "normativeDirection": "not increase",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "12.2.2",
+    "series": "EN_MAT_DOMCMPG",
+    "targetValue": 0.5,
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "12.c.1",
+    "series": "ER_FFS_CMPT_GDP",
+    "targetValue": 0.1,
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "14.4.1",
+    "series": "ER_H2O_FWTL",
+    "targetValue": 80,
+    "normativeDirection": "not decrease",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "14.5.1",
+    "series": "ER_MRN_MPA",
+    "targetValue": 83,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "14.7.1",
+    "series": "EN_SCP_FSHGDP",
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "15.1.1",
+    "series": "AG_LND_FRST",
+    "normativeDirection": "not decrease",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "15.1.2",
+    "series": "ER_PTD_FRHWTR",
+    "targetValue": 83,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "15.4.2",
+    "series": "ER_MTN_GRNCVI",
+    "normativeDirection": "not decrease",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "15.5.1",
+    "series": "ER_RSK_LST",
+    "targetValue": 1,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "15.6.1",
+    "series": "ER_CBD_SMTA",
+    "normativeDirection": "not decrease",
+    "trendMethodology": "CAGRA"
+  },
+  {
+    "indicator": "15.6.1",
+    "series": "ER_CBD_SMTA",
+    "value": 1,
+    "trendMethodology": "binary"
+  },
+  {
+    "indicator": "15.6.1",
+    "series": "ER_CBD_ORSPGRFA",
+    "value": 1,
+    "trendMethodology": "binary"
+  },
+  {
+    "indicator": "15.6.1",
+    "series": "ER_CBD_PTYPGRFA",
+    "value": 1,
+    "trendMethodology": "binary"
+  },
+  {
+    "indicator": "15.6.1",
+    "series": "ER_IAS_LEGIS",
+    "value": 1,
+    "trendMethodology": "binary"
+  },
+  {
+    "indicator": "16.1.1",
+    "series": "VC_IHR_PSRC",
+    "targetValue": 1,
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "16.3.2",
+    "series": "VC_PRS_UNSNT",
+    "targetValue": 15,
+    "normativeDirection": "decrease",
+    "trendMethodology": "CAGRR"
+  },
+  {
+    "indicator": "16.a.1",
+    "series": "SG_NHR_IMPLN",
+    "value": 1,
+    "trendMethodology": "binary"
+  },
+  {
+    "indicator": "17.8.1",
+    "series": "IT_USE_ii99",
+    "targetValue": 90,
+    "normativeDirection": "increase",
+    "trendMethodology": "CAGRA"
+  }
+]
